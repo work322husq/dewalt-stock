@@ -20225,11 +20225,6 @@
     <price>1</price>
     <stock_quantity>1</stock_quantity>
   </offer>
-  <offer id="15719">
-    <vendorCode>STHT0-65151</vendorCode>
-    <price>1</price>
-    <stock_quantity>1</stock_quantity>
-  </offer>
   <offer id="15720">
     <vendorCode>STHT0-65152</vendorCode>
     <price>1</price>
@@ -20673,7 +20668,7 @@
   <offer id="10832">
     <vendorCode>0-84-002</vendorCode>
     <price>1</price>
-    <stock_quantity>1</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10833">
     <vendorCode>0-84-006</vendorCode>
