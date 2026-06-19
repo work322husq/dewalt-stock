@@ -4333,7 +4333,7 @@
   <offer id="19594">
     <vendorCode>DCG460NK</vendorCode>
     <price>1</price>
-    <stock_quantity>1</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19595">
     <vendorCode>DCG460X2</vendorCode>
@@ -4383,7 +4383,7 @@
   <offer id="15035">
     <vendorCode>DWE4257KT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>1</stock_quantity>
   </offer>
   <offer id="14459">
     <vendorCode>DWE4277</vendorCode>
@@ -9508,7 +9508,7 @@
   <offer id="19795">
     <vendorCode>DPG72L</vendorCode>
     <price>1</price>
-    <stock_quantity>1</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19797">
     <vendorCode>DPG800L</vendorCode>
@@ -22953,7 +22953,7 @@
   <offer id="16936">
     <vendorCode>FME630K</vendorCode>
     <price>1</price>
-    <stock_quantity>1</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20739">
     <vendorCode>SFMCW400B</vendorCode>
