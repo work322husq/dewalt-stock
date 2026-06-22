@@ -7153,7 +7153,7 @@
   <offer id="17259">
     <vendorCode>DT70751</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17218">
     <vendorCode>DT70755</vendorCode>
@@ -16023,7 +16023,7 @@
   <offer id="9727">
     <vendorCode>0-10-401</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9728">
     <vendorCode>0-10-409</vendorCode>
@@ -18438,7 +18438,7 @@
   <offer id="12990">
     <vendorCode>STA54042</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12920">
     <vendorCode>STA54047</vendorCode>
@@ -21048,7 +21048,7 @@
   <offer id="12969">
     <vendorCode>STA53252</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17005">
     <vendorCode>STA53377</vendorCode>
