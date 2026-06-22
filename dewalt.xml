@@ -1973,7 +1973,7 @@
   <offer id="19101">
     <vendorCode>DT70816</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19089">
     <vendorCode>DT70817</vendorCode>
@@ -1983,7 +1983,7 @@
   <offer id="19090">
     <vendorCode>DT70818</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19091">
     <vendorCode>DT70819</vendorCode>
@@ -4053,7 +4053,7 @@
   <offer id="18352">
     <vendorCode>DCF850NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="18354">
     <vendorCode>DCF850P2T</vendorCode>
@@ -5038,7 +5038,7 @@
   <offer id="18649">
     <vendorCode>DT43972</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18660">
     <vendorCode>DW4543AIA</vendorCode>
@@ -6618,7 +6618,7 @@
   <offer id="11407">
     <vendorCode>DT5537</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11408">
     <vendorCode>DT5537_1</vendorCode>
@@ -6918,7 +6918,7 @@
   <offer id="13230">
     <vendorCode>DT5913</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11553">
     <vendorCode>DT5921</vendorCode>
@@ -18023,7 +18023,7 @@
   <offer id="12988">
     <vendorCode>STA61020</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12989">
     <vendorCode>STA61021</vendorCode>
@@ -18413,7 +18413,7 @@
   <offer id="13186">
     <vendorCode>STA54012</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13187">
     <vendorCode>STA54022</vendorCode>
