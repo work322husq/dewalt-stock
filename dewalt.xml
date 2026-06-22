@@ -658,7 +658,7 @@
   <offer id="21207">
     <vendorCode>DCD799N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21204">
     <vendorCode>DCD799NT</vendorCode>
@@ -2678,7 +2678,7 @@
   <offer id="21953">
     <vendorCode>DT9512</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11173">
     <vendorCode>DT9514</vendorCode>
@@ -4408,7 +4408,7 @@
   <offer id="17168">
     <vendorCode>DWE4557</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18640">
     <vendorCode>DWE4559</vendorCode>
@@ -4578,7 +4578,7 @@
   <offer id="19915">
     <vendorCode>DT10624</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19916">
     <vendorCode>DT10640</vendorCode>
@@ -4723,7 +4723,7 @@
   <offer id="14288">
     <vendorCode>DT1954</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14289">
     <vendorCode>DT1955</vendorCode>
@@ -9053,7 +9053,7 @@
   <offer id="21455">
     <vendorCode>DCK440P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20467">
     <vendorCode>DCK502P3</vendorCode>
@@ -10573,7 +10573,7 @@
   <offer id="17366">
     <vendorCode>DT7536</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16143">
     <vendorCode>DT7537</vendorCode>
@@ -11668,7 +11668,7 @@
   <offer id="21542">
     <vendorCode>DT2323_1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17246">
     <vendorCode>DT2333</vendorCode>
@@ -15843,7 +15843,7 @@
   <offer id="15530">
     <vendorCode>FMHT1-51276</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15531">
     <vendorCode>FMHT1-51277</vendorCode>
@@ -23043,7 +23043,7 @@
   <offer id="20740">
     <vendorCode>SFMCS550B</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19177">
     <vendorCode>SFMCS550M2K</vendorCode>
