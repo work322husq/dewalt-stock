@@ -343,7 +343,7 @@
   <offer id="19113">
     <vendorCode>DCF900P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17884">
     <vendorCode>DCF901P1</vendorCode>
@@ -1473,7 +1473,7 @@
   <offer id="15980">
     <vendorCode>DCL079</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20062">
     <vendorCode>DCL182</vendorCode>
@@ -4053,7 +4053,7 @@
   <offer id="18352">
     <vendorCode>DCF850NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18354">
     <vendorCode>DCF850P2T</vendorCode>
@@ -5553,7 +5553,7 @@
   <offer id="19484">
     <vendorCode>DT20514</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19485">
     <vendorCode>DT20515</vendorCode>
@@ -8198,7 +8198,7 @@
   <offer id="11692">
     <vendorCode>DT3113XM_25_1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11693">
     <vendorCode>DT3115XM</vendorCode>
@@ -8848,7 +8848,7 @@
   <offer id="19428">
     <vendorCode>DT6620</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19430">
     <vendorCode>DT6621</vendorCode>
@@ -10103,7 +10103,7 @@
   <offer id="20925">
     <vendorCode>DWST08510-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20926">
     <vendorCode>DWST08520-1</vendorCode>
@@ -19398,7 +19398,7 @@
   <offer id="10611">
     <vendorCode>1-TRA706T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10612">
     <vendorCode>1-TRA708T</vendorCode>
@@ -20218,7 +20218,7 @@
   <offer id="10417">
     <vendorCode>STHT0-62574</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14301">
     <vendorCode>STHT0-62685</vendorCode>
