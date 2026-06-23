@@ -2983,7 +2983,7 @@
   <offer id="11222">
     <vendorCode>DT9590</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17321">
     <vendorCode>DT9591</vendorCode>
@@ -9028,7 +9028,7 @@
   <offer id="22240">
     <vendorCode>DCK327P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17745">
     <vendorCode>DCK329P2T</vendorCode>
@@ -11458,7 +11458,7 @@
   <offer id="11866">
     <vendorCode>DT2059</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11888">
     <vendorCode>DT20701</vendorCode>
