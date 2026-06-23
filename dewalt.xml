@@ -203,7 +203,7 @@
   <offer id="19971">
     <vendorCode>DPC17PS</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19968">
     <vendorCode>DPC6MRC</vendorCode>
@@ -698,7 +698,7 @@
   <offer id="18941">
     <vendorCode>DCD800P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21081">
     <vendorCode>DCD800S2T</vendorCode>
@@ -2983,7 +2983,7 @@
   <offer id="11222">
     <vendorCode>DT9590</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17321">
     <vendorCode>DT9591</vendorCode>
@@ -10898,7 +10898,7 @@
   <offer id="19521">
     <vendorCode>DT20504</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19522">
     <vendorCode>DT20505</vendorCode>
@@ -11648,7 +11648,7 @@
   <offer id="11885">
     <vendorCode>DT2296</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21545">
     <vendorCode>DT2320</vendorCode>
