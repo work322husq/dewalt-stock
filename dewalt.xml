@@ -98,7 +98,7 @@
   <offer id="18935">
     <vendorCode>DCBP034E2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20725">
     <vendorCode>DCBP318</vendorCode>
@@ -113,7 +113,7 @@
   <offer id="19111">
     <vendorCode>DCBP518</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19568">
     <vendorCode>DCBP518G</vendorCode>
@@ -603,7 +603,7 @@
   <offer id="16439">
     <vendorCode>DCD777M2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14150">
     <vendorCode>DCD791D2</vendorCode>
@@ -628,7 +628,7 @@
   <offer id="21208">
     <vendorCode>DCD794NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21210">
     <vendorCode>DCD794P2T</vendorCode>
@@ -658,7 +658,7 @@
   <offer id="21207">
     <vendorCode>DCD799N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21204">
     <vendorCode>DCD799NT</vendorCode>
@@ -1413,7 +1413,7 @@
   <offer id="8996">
     <vendorCode>DW621</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17668">
     <vendorCode>DW621KT</vendorCode>
@@ -1473,7 +1473,7 @@
   <offer id="15980">
     <vendorCode>DCL079</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20062">
     <vendorCode>DCL182</vendorCode>
@@ -1588,7 +1588,7 @@
   <offer id="16868">
     <vendorCode>DCMPH566P1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14192">
     <vendorCode>DCE0811D1G</vendorCode>
@@ -3553,7 +3553,7 @@
   <offer id="8820">
     <vendorCode>D23700</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16308">
     <vendorCode>DCS373N</vendorCode>
@@ -3708,7 +3708,7 @@
   <offer id="10656">
     <vendorCode>DWE576K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17667">
     <vendorCode>DWS520KT</vendorCode>
@@ -4393,7 +4393,7 @@
   <offer id="16100">
     <vendorCode>DWE4347</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16098">
     <vendorCode>DWE4357</vendorCode>
@@ -9333,7 +9333,7 @@
   <offer id="19558">
     <vendorCode>DCF403NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19562">
     <vendorCode>DCF414E2GT</vendorCode>
@@ -10168,7 +10168,7 @@
   <offer id="19536">
     <vendorCode>DWST17871-1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19588">
     <vendorCode>DWST40101-1</vendorCode>
@@ -12428,7 +12428,7 @@
   <offer id="15482">
     <vendorCode>BEMW481BH</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16088">
     <vendorCode>BEMWH551</vendorCode>
@@ -12443,7 +12443,7 @@
   <offer id="17974">
     <vendorCode>BCSS18B</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17973">
     <vendorCode>BCSS18D1</vendorCode>
@@ -15118,7 +15118,7 @@
   <offer id="12735">
     <vendorCode>SB16-2.50</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17328">
     <vendorCode>SB-CAPS</vendorCode>
