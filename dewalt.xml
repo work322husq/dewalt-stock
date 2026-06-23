@@ -343,7 +343,7 @@
   <offer id="19113">
     <vendorCode>DCF900P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="17884">
     <vendorCode>DCF901P1</vendorCode>
@@ -1588,7 +1588,7 @@
   <offer id="16868">
     <vendorCode>DCMPH566P1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14192">
     <vendorCode>DCE0811D1G</vendorCode>
@@ -4283,7 +4283,7 @@
   <offer id="19120">
     <vendorCode>DCG416VSN</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="17669">
     <vendorCode>DCG418N</vendorCode>
@@ -9235,11 +9235,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="15617">
-    <vendorCode>DWF4000450</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="15738">
     <vendorCode>DWF4000550</vendorCode>
     <price>1</price>
@@ -9333,7 +9328,7 @@
   <offer id="19558">
     <vendorCode>DCF403NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19562">
     <vendorCode>DCF414E2GT</vendorCode>
