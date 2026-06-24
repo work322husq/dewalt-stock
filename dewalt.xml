@@ -1633,7 +1633,7 @@
   <offer id="20729">
     <vendorCode>DCLE14201RB</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20642">
     <vendorCode>DCLE34021N</vendorCode>
@@ -2293,7 +2293,7 @@
   <offer id="17134">
     <vendorCode>DT60809</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15663">
     <vendorCode>DT60810</vendorCode>
@@ -3768,7 +3768,7 @@
   <offer id="15431">
     <vendorCode>DCS367N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15432">
     <vendorCode>DCS367NT</vendorCode>
@@ -4058,7 +4058,7 @@
   <offer id="18354">
     <vendorCode>DCF850P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20680">
     <vendorCode>DCF85MM2T</vendorCode>
@@ -11163,7 +11163,7 @@
   <offer id="11993">
     <vendorCode>DWS5031</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15099">
     <vendorCode>DWV9000</vendorCode>
