@@ -3583,7 +3583,7 @@
   <offer id="19119">
     <vendorCode>DCS438N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18355">
     <vendorCode>DCS512N</vendorCode>
@@ -4198,7 +4198,7 @@
   <offer id="19124">
     <vendorCode>DCG405H2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15393">
     <vendorCode>DCG405N</vendorCode>
