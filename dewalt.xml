@@ -2773,7 +2773,7 @@
   <offer id="11185">
     <vendorCode>DT9539</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11186">
     <vendorCode>DT9540</vendorCode>
@@ -5673,7 +5673,7 @@
   <offer id="19154">
     <vendorCode>DT20602</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19155">
     <vendorCode>DT20603</vendorCode>
@@ -18828,7 +18828,7 @@
   <offer id="16079">
     <vendorCode>FMST1-75672</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10717">
     <vendorCode>STHT1-77139</vendorCode>
