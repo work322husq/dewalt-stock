@@ -8,7 +8,7 @@
   <offer id="17664">
     <vendorCode>DCB126</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19459">
     <vendorCode>DCB126G</vendorCode>
@@ -4553,7 +4553,7 @@
   <offer id="19920">
     <vendorCode>DT10401_10</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19921">
     <vendorCode>DT10402</vendorCode>
@@ -5243,7 +5243,7 @@
   <offer id="17831">
     <vendorCode>DT90302</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17832">
     <vendorCode>DT90303</vendorCode>
@@ -6033,7 +6033,7 @@
   <offer id="14635">
     <vendorCode>DT4781</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18830">
     <vendorCode>DT4783</vendorCode>
@@ -10573,7 +10573,7 @@
   <offer id="16143">
     <vendorCode>DT7537</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17367">
     <vendorCode>DT7538</vendorCode>
@@ -10628,7 +10628,7 @@
   <offer id="16149">
     <vendorCode>DT7553</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17373">
     <vendorCode>DT7554</vendorCode>
@@ -10798,7 +10798,7 @@
   <offer id="14185">
     <vendorCode>DE0892</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14186">
     <vendorCode>DE0892G</vendorCode>
@@ -21888,7 +21888,7 @@
   <offer id="20399">
     <vendorCode>SYFFP22PKB</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20398">
     <vendorCode>SYFFP32PKB</vendorCode>
