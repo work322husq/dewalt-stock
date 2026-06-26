@@ -103,7 +103,7 @@
   <offer id="20725">
     <vendorCode>DCBP318</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20726">
     <vendorCode>DCBP318S2</vendorCode>
@@ -1758,7 +1758,7 @@
   <offer id="21338">
     <vendorCode>DWHT48335RC-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17362">
     <vendorCode>DT20425</vendorCode>
@@ -2023,7 +2023,7 @@
   <offer id="21676">
     <vendorCode>DT70902T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21680">
     <vendorCode>DT70906</vendorCode>
@@ -4388,7 +4388,7 @@
   <offer id="16100">
     <vendorCode>DWE4347</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16098">
     <vendorCode>DWE4357</vendorCode>
@@ -11413,7 +11413,7 @@
   <offer id="18391">
     <vendorCode>DT20438</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18390">
     <vendorCode>DT20439</vendorCode>
@@ -11663,7 +11663,7 @@
   <offer id="21542">
     <vendorCode>DT2323_1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17246">
     <vendorCode>DT2333</vendorCode>
@@ -15113,7 +15113,7 @@
   <offer id="12735">
     <vendorCode>SB16-2.50</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17328">
     <vendorCode>SB-CAPS</vendorCode>
@@ -20418,7 +20418,7 @@
   <offer id="9955">
     <vendorCode>1-83-069</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9963">
     <vendorCode>0-83-033</vendorCode>
