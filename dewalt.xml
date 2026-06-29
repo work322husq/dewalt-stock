@@ -563,7 +563,7 @@
   <offer id="17326">
     <vendorCode>DCD709N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17739">
     <vendorCode>DCD709P2T</vendorCode>
@@ -1548,7 +1548,7 @@
   <offer id="17458">
     <vendorCode>DCMHT563N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17298">
     <vendorCode>DCMHT563P1</vendorCode>
@@ -1863,7 +1863,7 @@
   <offer id="16115">
     <vendorCode>DT70705</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17217">
     <vendorCode>DT70707</vendorCode>
@@ -7183,7 +7183,7 @@
   <offer id="19145">
     <vendorCode>DT70833</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19146">
     <vendorCode>DT70834</vendorCode>
@@ -8848,7 +8848,7 @@
   <offer id="19430">
     <vendorCode>DT6621</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19429">
     <vendorCode>DT6622</vendorCode>
@@ -14997,11 +14997,6 @@
   </offer>
   <offer id="12700">
     <vendorCode>PT31R70</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="15968">
-    <vendorCode>RH28R50</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -21958,7 +21953,7 @@
   <offer id="14176">
     <vendorCode>1-79-206</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10060">
     <vendorCode>1-79-213</vendorCode>
