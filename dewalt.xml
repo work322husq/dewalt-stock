@@ -4688,7 +4688,7 @@
   <offer id="14287">
     <vendorCode>DT1946</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17240">
     <vendorCode>DT1948</vendorCode>
@@ -8698,7 +8698,7 @@
   <offer id="17617">
     <vendorCode>DNPT28R63G12Z</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18016">
     <vendorCode>DNPT28R63HDZ</vendorCode>
@@ -10623,7 +10623,7 @@
   <offer id="17372">
     <vendorCode>DT7552</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16149">
     <vendorCode>DT7553</vendorCode>
@@ -15193,7 +15193,7 @@
   <offer id="19965">
     <vendorCode>FMXCM0043E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19966">
     <vendorCode>FMXCM0112E</vendorCode>
@@ -20253,7 +20253,7 @@
   <offer id="14748">
     <vendorCode>STHT1-60389</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14749">
     <vendorCode>STHT1-60413</vendorCode>
