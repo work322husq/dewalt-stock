@@ -12418,7 +12418,7 @@
   <offer id="15482">
     <vendorCode>BEMW481BH</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16088">
     <vendorCode>BEMWH551</vendorCode>
@@ -17923,7 +17923,7 @@
   <offer id="9075">
     <vendorCode>0-47-681</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11002">
     <vendorCode>STHT0-47244</vendorCode>
