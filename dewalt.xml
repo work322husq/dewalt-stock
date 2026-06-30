@@ -4728,7 +4728,7 @@
   <offer id="14290">
     <vendorCode>DT1956</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17244">
     <vendorCode>DT1957</vendorCode>
@@ -5218,7 +5218,7 @@
   <offer id="17827">
     <vendorCode>DT90298</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17828">
     <vendorCode>DT90299</vendorCode>
@@ -15168,7 +15168,7 @@
   <offer id="19950">
     <vendorCode>DN200/8/6</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19960">
     <vendorCode>FMXCM0001E</vendorCode>
@@ -22113,7 +22113,7 @@
   <offer id="10004">
     <vendorCode>1-95-614</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14259">
     <vendorCode>1-95-615</vendorCode>
