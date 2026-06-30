@@ -2298,7 +2298,7 @@
   <offer id="17135">
     <vendorCode>DT60811</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17136">
     <vendorCode>DT60812</vendorCode>
@@ -3608,7 +3608,7 @@
   <offer id="17897">
     <vendorCode>DCS565NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17898">
     <vendorCode>DCS565P2</vendorCode>
@@ -4423,7 +4423,7 @@
   <offer id="15444">
     <vendorCode>DWE492S</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15445">
     <vendorCode>DWE494</vendorCode>
@@ -4728,7 +4728,7 @@
   <offer id="14290">
     <vendorCode>DT1956</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17244">
     <vendorCode>DT1957</vendorCode>
@@ -7393,7 +7393,7 @@
   <offer id="11314">
     <vendorCode>DT8088</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11315">
     <vendorCode>DT8090</vendorCode>
@@ -7833,7 +7833,7 @@
   <offer id="19639">
     <vendorCode>DWHT0-11131</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19637">
     <vendorCode>DWHT11004-2</vendorCode>
@@ -13428,7 +13428,7 @@
   <offer id="20249">
     <vendorCode>BXIR2402E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20246">
     <vendorCode>BXIR2606E</vendorCode>
@@ -19513,7 +19513,7 @@
   <offer id="9698">
     <vendorCode>0-11-911</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9699">
     <vendorCode>0-11-921</vendorCode>
