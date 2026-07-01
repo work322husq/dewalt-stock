@@ -403,7 +403,7 @@
   <offer id="18847">
     <vendorCode>DCF922N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18848">
     <vendorCode>DCF922NT</vendorCode>
@@ -1758,7 +1758,7 @@
   <offer id="21338">
     <vendorCode>DWHT48335RC-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17362">
     <vendorCode>DT20425</vendorCode>
@@ -2663,7 +2663,7 @@
   <offer id="21426">
     <vendorCode>DT9510</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21953">
     <vendorCode>DT9512</vendorCode>
@@ -4103,7 +4103,7 @@
   <offer id="20474">
     <vendorCode>DCF870NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14844">
     <vendorCode>DCF887N</vendorCode>
@@ -4248,7 +4248,7 @@
   <offer id="21260">
     <vendorCode>DCG408N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21259">
     <vendorCode>DCG408NT</vendorCode>
@@ -4323,7 +4323,7 @@
   <offer id="19594">
     <vendorCode>DCG460NK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19595">
     <vendorCode>DCG460X2</vendorCode>
@@ -4803,7 +4803,7 @@
   <offer id="11655">
     <vendorCode>DT4092</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11656">
     <vendorCode>DT4094</vendorCode>
@@ -8153,7 +8153,7 @@
   <offer id="20405">
     <vendorCode>DT3607</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11687">
     <vendorCode>DT3111XM</vendorCode>
@@ -9217,11 +9217,6 @@
   </offer>
   <offer id="21244">
     <vendorCode>DCPS3595</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="15737">
-    <vendorCode>DWF4000250</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -16830,11 +16825,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="18501">
-    <vendorCode>0-22-492</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="18486">
     <vendorCode>0-22-499</vendorCode>
     <price>1</price>
@@ -18393,7 +18383,7 @@
   <offer id="13186">
     <vendorCode>STA54012</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="13187">
     <vendorCode>STA54022</vendorCode>
@@ -18818,7 +18808,7 @@
   <offer id="16079">
     <vendorCode>FMST1-75672</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10717">
     <vendorCode>STHT1-77139</vendorCode>
@@ -21668,7 +21658,7 @@
   <offer id="19982">
     <vendorCode>150538XSTN</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19985">
     <vendorCode>150540XSTN</vendorCode>
@@ -21943,7 +21933,7 @@
   <offer id="12898">
     <vendorCode>1-70-326</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14176">
     <vendorCode>1-79-206</vendorCode>
@@ -22008,7 +21998,7 @@
   <offer id="10013">
     <vendorCode>1-92-761</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10014">
     <vendorCode>1-92-762</vendorCode>
@@ -22268,7 +22258,7 @@
   <offer id="20900">
     <vendorCode>FMST1-75531</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14177">
     <vendorCode>FMST1-75761</vendorCode>
