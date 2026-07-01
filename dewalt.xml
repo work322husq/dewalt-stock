@@ -2293,7 +2293,7 @@
   <offer id="17135">
     <vendorCode>DT60811</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17136">
     <vendorCode>DT60812</vendorCode>
@@ -2913,7 +2913,7 @@
   <offer id="21362">
     <vendorCode>DT9576</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11213">
     <vendorCode>DT9578</vendorCode>
@@ -2963,7 +2963,7 @@
   <offer id="14148">
     <vendorCode>DT9588</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11221">
     <vendorCode>DT9589</vendorCode>
@@ -8193,7 +8193,7 @@
   <offer id="11693">
     <vendorCode>DT3115XM</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11694">
     <vendorCode>DT3115XM_25_1</vendorCode>
