@@ -22668,7 +22668,7 @@
   <offer id="21897">
     <vendorCode>SXWT-PA565</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20744">
     <vendorCode>SXWT-PA566</vendorCode>
@@ -22703,17 +22703,17 @@
   <offer id="22346">
     <vendorCode>SXWT-PA622</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22347">
     <vendorCode>SXWT-PA640</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22348">
     <vendorCode>SXWT-PA641</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22390">
     <vendorCode>SXLDAL-003</vendorCode>
