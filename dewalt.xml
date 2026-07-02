@@ -1863,7 +1863,7 @@
   <offer id="16115">
     <vendorCode>DT70705</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17217">
     <vendorCode>DT70707</vendorCode>
@@ -1973,7 +1973,7 @@
   <offer id="19090">
     <vendorCode>DT70818</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19091">
     <vendorCode>DT70819</vendorCode>
@@ -4937,11 +4937,6 @@
   </offer>
   <offer id="19437">
     <vendorCode>DT20595</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="19946">
-    <vendorCode>DT20598</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -8863,7 +8858,7 @@
   <offer id="19557">
     <vendorCode>DCR009</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16324">
     <vendorCode>DCR011</vendorCode>
@@ -12418,7 +12413,7 @@
   <offer id="15482">
     <vendorCode>BEMW481BH</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16088">
     <vendorCode>BEMWH551</vendorCode>
@@ -14498,7 +14493,7 @@
   <offer id="12591">
     <vendorCode>CR19GAL</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12592">
     <vendorCode>CR2DCGAL</vendorCode>
@@ -14523,7 +14518,7 @@
   <offer id="12596">
     <vendorCode>CR5DGAL</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12599">
     <vendorCode>F23050Q</vendorCode>
@@ -22013,7 +22008,7 @@
   <offer id="10644">
     <vendorCode>1-92-978</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16183">
     <vendorCode>1-92-980</vendorCode>
@@ -22123,7 +22118,7 @@
   <offer id="10385">
     <vendorCode>1-95-618</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15789">
     <vendorCode>1-95-620</vendorCode>
