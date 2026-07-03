@@ -2398,7 +2398,7 @@
   <offer id="17151">
     <vendorCode>DT60833</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17152">
     <vendorCode>DT60834</vendorCode>
@@ -2493,7 +2493,7 @@
   <offer id="16156">
     <vendorCode>DT8909</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16157">
     <vendorCode>DT8911</vendorCode>
@@ -2653,7 +2653,7 @@
   <offer id="11169">
     <vendorCode>DT9506</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11170">
     <vendorCode>DT9508</vendorCode>
@@ -2988,7 +2988,7 @@
   <offer id="15565">
     <vendorCode>DT9593</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14694">
     <vendorCode>DT9597</vendorCode>
@@ -5008,7 +5008,7 @@
   <offer id="18647">
     <vendorCode>DT43907</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18645">
     <vendorCode>DT43908</vendorCode>
@@ -6423,7 +6423,7 @@
   <offer id="15215">
     <vendorCode>DT5026</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15100">
     <vendorCode>DT5027</vendorCode>
@@ -7393,7 +7393,7 @@
   <offer id="11314">
     <vendorCode>DT8088</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11315">
     <vendorCode>DT8090</vendorCode>
@@ -8643,7 +8643,7 @@
   <offer id="16064">
     <vendorCode>DNBT1840SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16058">
     <vendorCode>DNBT1845GZ</vendorCode>
@@ -9239,6 +9239,46 @@
     <vendorCode>DWF4100350</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="22459">
+    <vendorCode>DWF500025C</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22455">
+    <vendorCode>DWF500025F</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22460">
+    <vendorCode>DWF500035C</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22456">
+    <vendorCode>DWF500035F</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22461">
+    <vendorCode>DWF500045C</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22457">
+    <vendorCode>DWF500045F</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22462">
+    <vendorCode>DWF500055C</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22458">
+    <vendorCode>DWF500055F</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21220">
     <vendorCode>DCAFVPS</vendorCode>
