@@ -3143,7 +3143,7 @@
   <offer id="14703">
     <vendorCode>DT9643</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13982">
     <vendorCode>DT9644</vendorCode>
@@ -22013,7 +22013,7 @@
   <offer id="10644">
     <vendorCode>1-92-978</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16183">
     <vendorCode>1-92-980</vendorCode>
