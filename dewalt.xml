@@ -23480,4 +23480,9 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="DW292">
+    <vendorCode>DW292</vendorCode>
+    <price>1</price>
+    <stock_quantity>2</stock_quantity>
+  </offer>
 </offers>
