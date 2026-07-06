@@ -1128,7 +1128,7 @@
   <offer id="22073">
     <vendorCode>DWHT9-10354</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19689">
     <vendorCode>DWHT0-20123</vendorCode>
@@ -8908,7 +8908,7 @@
   <offer id="21447">
     <vendorCode>DCK2026P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19470">
     <vendorCode>DCK2050E2T</vendorCode>
@@ -9368,7 +9368,7 @@
   <offer id="19558">
     <vendorCode>DCF403NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19562">
     <vendorCode>DCF414E2GT</vendorCode>
@@ -12093,7 +12093,7 @@
   <offer id="14432">
     <vendorCode>BL1512</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14433">
     <vendorCode>BL1518</vendorCode>
