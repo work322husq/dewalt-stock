@@ -8908,7 +8908,7 @@
   <offer id="21447">
     <vendorCode>DCK2026P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>5</stock_quantity>
   </offer>
   <offer id="19470">
     <vendorCode>DCK2050E2T</vendorCode>
@@ -16575,11 +16575,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="18519">
-    <vendorCode>STHT20370-1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="18520">
     <vendorCode>STHT20371-1</vendorCode>
     <price>1</price>
@@ -18433,7 +18428,7 @@
   <offer id="13186">
     <vendorCode>STA54012</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13187">
     <vendorCode>STA54022</vendorCode>
