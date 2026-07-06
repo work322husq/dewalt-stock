@@ -11173,7 +11173,7 @@
   <offer id="11988">
     <vendorCode>DWS5023</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16193">
     <vendorCode>DWS5025</vendorCode>
@@ -18458,7 +18458,7 @@
   <offer id="12920">
     <vendorCode>STA54047</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12921">
     <vendorCode>STA54052</vendorCode>
