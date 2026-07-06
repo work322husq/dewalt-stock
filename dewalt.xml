@@ -383,7 +383,7 @@
   <offer id="18859">
     <vendorCode>DCF921N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18860">
     <vendorCode>DCF921NT</vendorCode>
@@ -563,7 +563,7 @@
   <offer id="17326">
     <vendorCode>DCD709N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17739">
     <vendorCode>DCD709P2T</vendorCode>
@@ -803,7 +803,7 @@
   <offer id="8681">
     <vendorCode>D21441</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10592">
     <vendorCode>D21570K</vendorCode>
@@ -5668,7 +5668,7 @@
   <offer id="19154">
     <vendorCode>DT20602</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19155">
     <vendorCode>DT20603</vendorCode>
@@ -7498,7 +7498,7 @@
   <offer id="14044">
     <vendorCode>DWE74911</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15156">
     <vendorCode>DWST1-75676</vendorCode>
@@ -9193,7 +9193,7 @@
   <offer id="21226">
     <vendorCode>DCPS320N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21239">
     <vendorCode>DCPS3382</vendorCode>
@@ -11218,7 +11218,7 @@
   <offer id="15416">
     <vendorCode>DWV9315</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15170">
     <vendorCode>DWV9316</vendorCode>
@@ -14643,7 +14643,7 @@
   <offer id="12614">
     <vendorCode>F250R50Q</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12615">
     <vendorCode>F250R55Q</vendorCode>
@@ -16803,7 +16803,7 @@
   <offer id="18488">
     <vendorCode>0-22-443</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18490">
     <vendorCode>0-22-444</vendorCode>
