@@ -2473,7 +2473,7 @@
   <offer id="19149">
     <vendorCode>DT70837</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19150">
     <vendorCode>DT70838</vendorCode>
@@ -4173,7 +4173,7 @@
   <offer id="22237">
     <vendorCode>DCG404N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22238">
     <vendorCode>DCG404NT</vendorCode>
@@ -5258,7 +5258,7 @@
   <offer id="17835">
     <vendorCode>DT90306</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17836">
     <vendorCode>DT90307</vendorCode>
@@ -16598,7 +16598,7 @@
   <offer id="9437">
     <vendorCode>0-65-492</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18473">
     <vendorCode>0-66-052</vendorCode>
@@ -22683,7 +22683,7 @@
   <offer id="13030">
     <vendorCode>STA26130</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16997">
     <vendorCode>STA26135</vendorCode>
