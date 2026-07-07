@@ -4193,7 +4193,7 @@
   <offer id="19124">
     <vendorCode>DCG405H2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15393">
     <vendorCode>DCG405N</vendorCode>
@@ -8698,7 +8698,7 @@
   <offer id="18016">
     <vendorCode>DNPT28R63HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18014">
     <vendorCode>DNPT28R63SZ</vendorCode>
