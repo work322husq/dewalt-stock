@@ -1483,7 +1483,7 @@
   <offer id="10132">
     <vendorCode>DCL510N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20063">
     <vendorCode>DWST08061-1</vendorCode>
@@ -1898,7 +1898,7 @@
   <offer id="17382">
     <vendorCode>DT70743T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16109">
     <vendorCode>DT70745T</vendorCode>
@@ -2648,7 +2648,7 @@
   <offer id="11168">
     <vendorCode>DT9505</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11169">
     <vendorCode>DT9506</vendorCode>
@@ -10923,7 +10923,7 @@
   <offer id="17908">
     <vendorCode>DT20502</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17909">
     <vendorCode>DT20503</vendorCode>
@@ -19388,7 +19388,7 @@
   <offer id="9675">
     <vendorCode>1-TRA206T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="9676">
     <vendorCode>1-TRA208T</vendorCode>
@@ -19619,16 +19619,6 @@
     <vendorCode>FMHT10375-1_1</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="16365">
-    <vendorCode>FMHT10376-1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="16523">
-    <vendorCode>FMHT10376-1_1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16428">
     <vendorCode>FMHT11012-2</vendorCode>
