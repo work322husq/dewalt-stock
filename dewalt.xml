@@ -408,7 +408,7 @@
   <offer id="18848">
     <vendorCode>DCF922NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18845">
     <vendorCode>DCF922P2T</vendorCode>
@@ -2908,7 +2908,7 @@
   <offer id="11211">
     <vendorCode>DT9574</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21362">
     <vendorCode>DT9576</vendorCode>
@@ -3158,7 +3158,7 @@
   <offer id="13984">
     <vendorCode>DT9647</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13985">
     <vendorCode>DT9648</vendorCode>
@@ -19403,7 +19403,7 @@
   <offer id="10610">
     <vendorCode>1-TRA705T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10611">
     <vendorCode>1-TRA706T</vendorCode>
@@ -22738,47 +22738,47 @@
   <offer id="22390">
     <vendorCode>SXLDAL-003</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22391">
     <vendorCode>SXLDAL-004</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22392">
     <vendorCode>SXLDAL-005</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22393">
     <vendorCode>SXLDAL-006</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22394">
     <vendorCode>SXLDAL-007</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22395">
     <vendorCode>SXLDAL-008</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22396">
     <vendorCode>SXLDFG-004</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22397">
     <vendorCode>SXLDFG-006</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22398">
     <vendorCode>SXLDFG-008</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17644">
     <vendorCode>SFMCB202</vendorCode>
