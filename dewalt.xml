@@ -21773,7 +21773,7 @@
   <offer id="20016">
     <vendorCode>8221577STN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20018">
     <vendorCode>8221579STN</vendorCode>
@@ -22033,7 +22033,7 @@
   <offer id="10644">
     <vendorCode>1-92-978</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16183">
     <vendorCode>1-92-980</vendorCode>
@@ -22383,7 +22383,7 @@
   <offer id="12895">
     <vendorCode>STST1-72335</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16546">
     <vendorCode>STST1-72359</vendorCode>
