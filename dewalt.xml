@@ -10188,7 +10188,7 @@
   <offer id="19415">
     <vendorCode>DWST1-75694</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16000">
     <vendorCode>DWST1-79210</vendorCode>
@@ -12473,7 +12473,7 @@
   <offer id="17974">
     <vendorCode>BCSS18B</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17973">
     <vendorCode>BCSS18D1</vendorCode>
