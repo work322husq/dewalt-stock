@@ -1128,7 +1128,7 @@
   <offer id="22073">
     <vendorCode>DWHT9-10354</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19689">
     <vendorCode>DWHT0-20123</vendorCode>
@@ -5018,7 +5018,7 @@
   <offer id="18649">
     <vendorCode>DT43972</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18660">
     <vendorCode>DW4543AIA</vendorCode>
@@ -10948,7 +10948,7 @@
   <offer id="20545">
     <vendorCode>DT20563</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11887">
     <vendorCode>DT20700</vendorCode>
@@ -15318,7 +15318,7 @@
   <offer id="18062">
     <vendorCode>0-90-947</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18063">
     <vendorCode>0-90-948</vendorCode>
