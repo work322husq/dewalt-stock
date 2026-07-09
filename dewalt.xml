@@ -4163,7 +4163,7 @@
   <offer id="22237">
     <vendorCode>DCG404N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22238">
     <vendorCode>DCG404NT</vendorCode>
@@ -5018,7 +5018,7 @@
   <offer id="18649">
     <vendorCode>DT43972</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18660">
     <vendorCode>DW4543AIA</vendorCode>
@@ -10948,7 +10948,7 @@
   <offer id="20545">
     <vendorCode>DT20563</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11887">
     <vendorCode>DT20700</vendorCode>
@@ -13402,6 +13402,11 @@
   </offer>
   <offer id="15337">
     <vendorCode>BDCSP18N</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="15325">
+    <vendorCode>CSRA1</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -17898,7 +17903,7 @@
   <offer id="8931">
     <vendorCode>1-45-685</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8932">
     <vendorCode>1-45-686</vendorCode>
@@ -18908,7 +18913,7 @@
   <offer id="20320">
     <vendorCode>STMT17380-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20321">
     <vendorCode>STMT98109-1</vendorCode>
@@ -18958,7 +18963,7 @@
   <offer id="17784">
     <vendorCode>FMHT1-55008</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17785">
     <vendorCode>FMHT1-55009</vendorCode>
@@ -19373,7 +19378,7 @@
   <offer id="9673">
     <vendorCode>1-TRA204T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9674">
     <vendorCode>1-TRA205T</vendorCode>
@@ -19458,7 +19463,7 @@
   <offer id="14483">
     <vendorCode>1-15-906_1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9686">
     <vendorCode>1-15-907</vendorCode>
@@ -22853,7 +22858,7 @@
   <offer id="18895">
     <vendorCode>SFMCD711C2K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18897">
     <vendorCode>SFMCD715D2K</vendorCode>
@@ -23123,7 +23128,7 @@
   <offer id="16650">
     <vendorCode>FMEG220</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17980">
     <vendorCode>FMEG225VS</vendorCode>
