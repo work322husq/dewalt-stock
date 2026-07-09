@@ -2883,7 +2883,7 @@
   <offer id="11208">
     <vendorCode>DT9570</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11209">
     <vendorCode>DT9571</vendorCode>
@@ -8468,7 +8468,7 @@
   <offer id="16024">
     <vendorCode>DCN8903043</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16026">
     <vendorCode>DCN8903057</vendorCode>
@@ -11928,7 +11928,7 @@
   <offer id="17988">
     <vendorCode>DT20653</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17989">
     <vendorCode>DT20654</vendorCode>
@@ -23123,7 +23123,7 @@
   <offer id="16650">
     <vendorCode>FMEG220</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17980">
     <vendorCode>FMEG225VS</vendorCode>
@@ -23163,7 +23163,7 @@
   <offer id="16869">
     <vendorCode>FMEW204K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19806">
     <vendorCode>SFMCE210B</vendorCode>
@@ -23343,7 +23343,7 @@
   <offer id="17655">
     <vendorCode>STZST1169</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17658">
     <vendorCode>STZST1226</vendorCode>
