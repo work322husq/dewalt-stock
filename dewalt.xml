@@ -4733,7 +4733,7 @@
   <offer id="15468">
     <vendorCode>DT1959</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14521">
     <vendorCode>DT1960</vendorCode>
@@ -9018,7 +9018,7 @@
   <offer id="17745">
     <vendorCode>DCK329P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16595">
     <vendorCode>DCK384P2T</vendorCode>
@@ -17913,7 +17913,7 @@
   <offer id="8933">
     <vendorCode>1-45-687</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15101">
     <vendorCode>2-46-017</vendorCode>
@@ -18128,7 +18128,7 @@
   <offer id="17314">
     <vendorCode>STA88560</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17304">
     <vendorCode>STA88564</vendorCode>
@@ -22933,7 +22933,7 @@
   <offer id="17393">
     <vendorCode>SFMEH230K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16983">
     <vendorCode>FME670K</vendorCode>
