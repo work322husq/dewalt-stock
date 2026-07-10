@@ -563,7 +563,7 @@
   <offer id="17326">
     <vendorCode>DCD709N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17739">
     <vendorCode>DCD709P2T</vendorCode>
@@ -3693,7 +3693,7 @@
   <offer id="10656">
     <vendorCode>DWE576K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17667">
     <vendorCode>DWS520KT</vendorCode>
@@ -4543,7 +4543,7 @@
   <offer id="19920">
     <vendorCode>DT10401_10</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19921">
     <vendorCode>DT10402</vendorCode>
@@ -22058,7 +22058,7 @@
   <offer id="12896">
     <vendorCode>1-93-330</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10068">
     <vendorCode>1-93-601</vendorCode>
@@ -23168,7 +23168,7 @@
   <offer id="16869">
     <vendorCode>FMEW204K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19806">
     <vendorCode>SFMCE210B</vendorCode>
