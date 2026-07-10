@@ -1883,7 +1883,7 @@
   <offer id="16107">
     <vendorCode>DT70739T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17381">
     <vendorCode>DT70740T</vendorCode>
@@ -2458,7 +2458,7 @@
   <offer id="19148">
     <vendorCode>DT70836</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19149">
     <vendorCode>DT70837</vendorCode>
@@ -4028,7 +4028,7 @@
   <offer id="18951">
     <vendorCode>DCF850E2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18351">
     <vendorCode>DCF850N</vendorCode>
@@ -10653,7 +10653,7 @@
   <offer id="16148">
     <vendorCode>DT7551</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17372">
     <vendorCode>DT7552</vendorCode>
@@ -11763,7 +11763,7 @@
   <offer id="17250">
     <vendorCode>DT2385</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17251">
     <vendorCode>DT2387</vendorCode>
@@ -15883,7 +15883,7 @@
   <offer id="15531">
     <vendorCode>FMHT1-51277</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15649">
     <vendorCode>STHT0-51309</vendorCode>
@@ -17193,7 +17193,7 @@
   <offer id="10537">
     <vendorCode>STHT0-14103</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9833">
     <vendorCode>1-51-030</vendorCode>
@@ -17958,7 +17958,7 @@
   <offer id="9075">
     <vendorCode>0-47-681</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11002">
     <vendorCode>STHT0-47244</vendorCode>
@@ -19619,6 +19619,11 @@
     <vendorCode>FMHT10375-1_1</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="16523">
+    <vendorCode>FMHT10376-1_1</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16428">
     <vendorCode>FMHT11012-2</vendorCode>
@@ -21778,7 +21783,7 @@
   <offer id="20016">
     <vendorCode>8221577STN</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20018">
     <vendorCode>8221579STN</vendorCode>
