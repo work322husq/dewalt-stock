@@ -313,7 +313,7 @@
   <offer id="18856">
     <vendorCode>DCF892NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18857">
     <vendorCode>DCF892P2T</vendorCode>
@@ -398,7 +398,7 @@
   <offer id="18858">
     <vendorCode>DCF921P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18847">
     <vendorCode>DCF922N</vendorCode>
@@ -4028,7 +4028,7 @@
   <offer id="18951">
     <vendorCode>DCF850E2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18351">
     <vendorCode>DCF850N</vendorCode>
@@ -8508,7 +8508,7 @@
   <offer id="15020">
     <vendorCode>DNBA1650GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18030">
     <vendorCode>DNBA1650SZ</vendorCode>
