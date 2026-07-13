@@ -8768,7 +8768,7 @@
   <offer id="17793">
     <vendorCode>DNR3122HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17791">
     <vendorCode>DNR3125GZ</vendorCode>
@@ -19593,7 +19593,7 @@
   <offer id="10635">
     <vendorCode>1-11-916</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9710">
     <vendorCode>2-11-301</vendorCode>
