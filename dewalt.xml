@@ -3173,7 +3173,7 @@
   <offer id="14035">
     <vendorCode>DT9651</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14036">
     <vendorCode>DT9652</vendorCode>
@@ -3963,7 +3963,7 @@
   <offer id="14054">
     <vendorCode>DCF620D2K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
@@ -5558,7 +5558,7 @@
   <offer id="19493">
     <vendorCode>DT20519</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19494">
     <vendorCode>DT20520</vendorCode>
@@ -6018,7 +6018,7 @@
   <offer id="14635">
     <vendorCode>DT4781</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18830">
     <vendorCode>DT4783</vendorCode>
@@ -8478,7 +8478,7 @@
   <offer id="15017">
     <vendorCode>DNBA1632GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18027">
     <vendorCode>DNBA1632SZ</vendorCode>
@@ -8788,7 +8788,7 @@
   <offer id="17817">
     <vendorCode>DNR3145HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12122">
     <vendorCode>DT3500</vendorCode>
@@ -11213,7 +11213,7 @@
   <offer id="15416">
     <vendorCode>DWV9315</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15170">
     <vendorCode>DWV9316</vendorCode>
@@ -17443,7 +17443,7 @@
   <offer id="15826">
     <vendorCode>STHT77498-1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15827">
     <vendorCode>STHT77499-1</vendorCode>
@@ -17943,7 +17943,7 @@
   <offer id="10971">
     <vendorCode>0-47-443</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10367">
     <vendorCode>0-47-465</vendorCode>
