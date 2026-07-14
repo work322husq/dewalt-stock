@@ -213,7 +213,7 @@
   <offer id="21073">
     <vendorCode>DXCMS15RE</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21308">
     <vendorCode>DXCMS2524HE</vendorCode>
@@ -2598,7 +2598,7 @@
   <offer id="16179">
     <vendorCode>DT8942</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11131">
     <vendorCode>DT9417-QZ</vendorCode>
@@ -2963,12 +2963,12 @@
   <offer id="11221">
     <vendorCode>DT9589</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11222">
     <vendorCode>DT9590</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17321">
     <vendorCode>DT9591</vendorCode>
@@ -4413,7 +4413,7 @@
   <offer id="15444">
     <vendorCode>DWE492S</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15445">
     <vendorCode>DWE494</vendorCode>
@@ -5278,7 +5278,7 @@
   <offer id="17841">
     <vendorCode>DT90312</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17842">
     <vendorCode>DT90313</vendorCode>
@@ -6313,7 +6313,7 @@
   <offer id="14878">
     <vendorCode>DT4941</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14879">
     <vendorCode>DT4942</vendorCode>
@@ -8753,7 +8753,7 @@
   <offer id="17789">
     <vendorCode>DNR3119GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17792">
     <vendorCode>DNR3119HDZ</vendorCode>
@@ -10838,7 +10838,7 @@
   <offer id="14186">
     <vendorCode>DE0892G</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13302">
     <vendorCode>DE6260</vendorCode>
