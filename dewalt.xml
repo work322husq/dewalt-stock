@@ -3628,7 +3628,7 @@
   <offer id="16960">
     <vendorCode>DCS571N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16947">
     <vendorCode>DCS571NT</vendorCode>
@@ -4623,7 +4623,7 @@
   <offer id="17235">
     <vendorCode>DT1933</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17236">
     <vendorCode>DT1934</vendorCode>
