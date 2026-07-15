@@ -103,7 +103,7 @@
   <offer id="20725">
     <vendorCode>DCBP318</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20726">
     <vendorCode>DCBP318S2</vendorCode>
@@ -878,7 +878,7 @@
   <offer id="16944">
     <vendorCode>DCB104</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19303">
     <vendorCode>DCB1104</vendorCode>
@@ -3628,7 +3628,7 @@
   <offer id="16960">
     <vendorCode>DCS571N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16947">
     <vendorCode>DCS571NT</vendorCode>
@@ -12254,11 +12254,6 @@
     <vendorCode>BDCHD12S1</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="14132">
-    <vendorCode>BDCHD18KB</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15005">
     <vendorCode>BL186KB</vendorCode>
