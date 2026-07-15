@@ -3933,7 +3933,7 @@
   <offer id="16620">
     <vendorCode>DCG200NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16671">
     <vendorCode>DCG200T2</vendorCode>
@@ -8613,7 +8613,7 @@
   <offer id="16062">
     <vendorCode>DNBT1830SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16055">
     <vendorCode>DNBT1835GZ</vendorCode>
@@ -9528,7 +9528,7 @@
   <offer id="19798">
     <vendorCode>DPG70L</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19795">
     <vendorCode>DPG72L</vendorCode>
@@ -11208,7 +11208,7 @@
   <offer id="17062">
     <vendorCode>DWV9130</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15416">
     <vendorCode>DWV9315</vendorCode>
@@ -18128,7 +18128,7 @@
   <offer id="17314">
     <vendorCode>STA88560</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17304">
     <vendorCode>STA88564</vendorCode>
@@ -21883,7 +21883,7 @@
   <offer id="20394">
     <vendorCode>F01.1.022</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20393">
     <vendorCode>F01.2.009</vendorCode>
