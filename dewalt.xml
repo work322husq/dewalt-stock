@@ -12255,6 +12255,11 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="14132">
+    <vendorCode>BDCHD18KB</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
   <offer id="15005">
     <vendorCode>BL186KB</vendorCode>
     <price>1</price>
@@ -12593,7 +12598,7 @@
   <offer id="16579">
     <vendorCode>BCF601C</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17968">
     <vendorCode>BCRTA01</vendorCode>
