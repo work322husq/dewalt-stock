@@ -3338,7 +3338,7 @@
   <offer id="18345">
     <vendorCode>DCH172P2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16608">
     <vendorCode>DCH263N</vendorCode>
@@ -6318,7 +6318,7 @@
   <offer id="14878">
     <vendorCode>DT4941</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14879">
     <vendorCode>DT4942</vendorCode>
@@ -10838,7 +10838,7 @@
   <offer id="14186">
     <vendorCode>DE0892G</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="13302">
     <vendorCode>DE6260</vendorCode>
