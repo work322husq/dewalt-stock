@@ -4658,7 +4658,7 @@
   <offer id="14284">
     <vendorCode>DT1940</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14285">
     <vendorCode>DT1943</vendorCode>
@@ -6043,7 +6043,7 @@
   <offer id="18834">
     <vendorCode>DT4787</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18835">
     <vendorCode>DT4788</vendorCode>
@@ -15808,7 +15808,7 @@
   <offer id="9866">
     <vendorCode>0-69-833</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9867">
     <vendorCode>6-MR100</vendorCode>
@@ -17958,7 +17958,7 @@
   <offer id="9075">
     <vendorCode>0-47-681</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11002">
     <vendorCode>STHT0-47244</vendorCode>
@@ -19253,7 +19253,7 @@
   <offer id="19348">
     <vendorCode>FMMT17246-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19349">
     <vendorCode>FMMT17247-0</vendorCode>
