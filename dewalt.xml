@@ -2798,7 +2798,7 @@
   <offer id="11192">
     <vendorCode>DT9546</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11193">
     <vendorCode>DT9547</vendorCode>
@@ -3328,7 +3328,7 @@
   <offer id="18359">
     <vendorCode>DCH172NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18345">
     <vendorCode>DCH172P2</vendorCode>
@@ -8653,7 +8653,7 @@
   <offer id="16066">
     <vendorCode>DNBT1850SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16545">
     <vendorCode>DNPT2863G12Z</vendorCode>
@@ -10978,7 +10978,7 @@
   <offer id="12096">
     <vendorCode>DT3568</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12142">
     <vendorCode>DT3611XM</vendorCode>
@@ -14073,7 +14073,7 @@
   <offer id="12457">
     <vendorCode>MS-3519-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12458">
     <vendorCode>MS-3522-E</vendorCode>
@@ -15283,7 +15283,7 @@
   <offer id="21433">
     <vendorCode>SXIF0001</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20503">
     <vendorCode>SXIF0101</vendorCode>
@@ -22398,7 +22398,7 @@
   <offer id="12895">
     <vendorCode>STST1-72335</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16546">
     <vendorCode>STST1-72359</vendorCode>
