@@ -5278,7 +5278,7 @@
   <offer id="17841">
     <vendorCode>DT90312</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17842">
     <vendorCode>DT90313</vendorCode>
@@ -5328,7 +5328,7 @@
   <offer id="17851">
     <vendorCode>DT90323</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17852">
     <vendorCode>DT90324</vendorCode>
@@ -5403,7 +5403,7 @@
   <offer id="17866">
     <vendorCode>DT90338</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17867">
     <vendorCode>DT90339</vendorCode>
