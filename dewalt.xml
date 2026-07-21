@@ -388,7 +388,7 @@
   <offer id="18860">
     <vendorCode>DCF921NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18844">
     <vendorCode>DCF921P2G</vendorCode>
@@ -1198,7 +1198,7 @@
   <offer id="16452">
     <vendorCode>DCGG571NK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19831">
     <vendorCode>DCV501LN</vendorCode>
@@ -4443,7 +4443,7 @@
   <offer id="14131">
     <vendorCode>DWE6411</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20066">
     <vendorCode>DCM200E2T</vendorCode>
@@ -4853,7 +4853,7 @@
   <offer id="11666">
     <vendorCode>DT4288</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11667">
     <vendorCode>DT4290</vendorCode>
@@ -6378,7 +6378,7 @@
   <offer id="14661">
     <vendorCode>DT4960</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14662">
     <vendorCode>DT4961</vendorCode>
@@ -9138,7 +9138,7 @@
   <offer id="21958">
     <vendorCode>DXPW003H</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20150">
     <vendorCode>DXPW004E</vendorCode>
@@ -10813,7 +10813,7 @@
   <offer id="11923">
     <vendorCode>DE0735</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11925">
     <vendorCode>DE0737</vendorCode>
@@ -22848,7 +22848,7 @@
   <offer id="19438">
     <vendorCode>SFMCF900B</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19451">
     <vendorCode>SFMCF940B</vendorCode>
