@@ -393,7 +393,7 @@
   <offer id="18844">
     <vendorCode>DCF921P2G</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18858">
     <vendorCode>DCF921P2T</vendorCode>
@@ -2358,7 +2358,7 @@
   <offer id="17145">
     <vendorCode>DT60827</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17146">
     <vendorCode>DT60828</vendorCode>
@@ -3773,7 +3773,7 @@
   <offer id="16933">
     <vendorCode>DCS369NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21215">
     <vendorCode>DCS369P2</vendorCode>
@@ -4728,7 +4728,7 @@
   <offer id="17245">
     <vendorCode>DT1958</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15468">
     <vendorCode>DT1959</vendorCode>
@@ -5823,7 +5823,7 @@
   <offer id="11550">
     <vendorCode>DT4535</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="13910">
     <vendorCode>DT4577</vendorCode>
@@ -7108,7 +7108,7 @@
   <offer id="11559">
     <vendorCode>DT6956</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17386">
     <vendorCode>DT70727</vendorCode>
@@ -9393,7 +9393,7 @@
   <offer id="19785">
     <vendorCode>DPG101-FD</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19786">
     <vendorCode>DPG102-2D</vendorCode>
@@ -10263,7 +10263,7 @@
   <offer id="20706">
     <vendorCode>DWST60452-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20927">
     <vendorCode>DWST60510-1</vendorCode>
@@ -14073,7 +14073,7 @@
   <offer id="12457">
     <vendorCode>MS-3519-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12458">
     <vendorCode>MS-3522-E</vendorCode>
@@ -18883,7 +18883,7 @@
   <offer id="9453">
     <vendorCode>0-22-464</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9454">
     <vendorCode>0-22-477</vendorCode>
@@ -19458,7 +19458,7 @@
   <offer id="16635">
     <vendorCode>1-15-558_1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9685">
     <vendorCode>1-15-906</vendorCode>
