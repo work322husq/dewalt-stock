@@ -4935,11 +4935,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="19946">
-    <vendorCode>DT20598</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="16854">
     <vendorCode>DT30602</vendorCode>
     <price>1</price>
@@ -9078,7 +9073,7 @@
   <offer id="15423">
     <vendorCode>DCS350N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15424">
     <vendorCode>DCS350NT</vendorCode>
@@ -9143,7 +9138,7 @@
   <offer id="21958">
     <vendorCode>DXPW003H</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20150">
     <vendorCode>DXPW004E</vendorCode>
@@ -13663,7 +13658,7 @@
   <offer id="20217">
     <vendorCode>BXFPA1200E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20218">
     <vendorCode>BXFPA600E</vendorCode>
@@ -13923,7 +13918,7 @@
   <offer id="16228">
     <vendorCode>BT1855-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12408">
     <vendorCode>F21PL-E</vendorCode>
@@ -16178,7 +16173,7 @@
   <offer id="14732">
     <vendorCode>FMHT0-10312</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15681">
     <vendorCode>FMHT0-10327</vendorCode>
