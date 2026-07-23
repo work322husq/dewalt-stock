@@ -4663,7 +4663,7 @@
   <offer id="14285">
     <vendorCode>DT1943</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17239">
     <vendorCode>DT1944</vendorCode>
@@ -8463,7 +8463,7 @@
   <offer id="16024">
     <vendorCode>DCN8903043</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16026">
     <vendorCode>DCN8903057</vendorCode>
@@ -16053,7 +16053,7 @@
   <offer id="9725">
     <vendorCode>0-10-299</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9727">
     <vendorCode>0-10-401</vendorCode>
@@ -21928,7 +21928,7 @@
   <offer id="20398">
     <vendorCode>SYFFP32PKB</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20397">
     <vendorCode>SYFFP35BX</vendorCode>
