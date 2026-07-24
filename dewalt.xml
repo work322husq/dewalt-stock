@@ -3468,7 +3468,7 @@
   <offer id="14593">
     <vendorCode>D25481K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16848">
     <vendorCode>D25614K</vendorCode>
@@ -8508,7 +8508,7 @@
   <offer id="18030">
     <vendorCode>DNBA1650SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15021">
     <vendorCode>DNBA1663GZ</vendorCode>
@@ -8653,7 +8653,7 @@
   <offer id="16066">
     <vendorCode>DNBT1850SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16545">
     <vendorCode>DNPT2863G12Z</vendorCode>
@@ -15853,7 +15853,7 @@
   <offer id="9526">
     <vendorCode>1-54-022</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9531">
     <vendorCode>1-57-530</vendorCode>
@@ -21398,7 +21398,7 @@
   <offer id="19975">
     <vendorCode>SXPW19B-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20913">
     <vendorCode>SXPW19CP-E</vendorCode>
