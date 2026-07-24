@@ -388,7 +388,7 @@
   <offer id="18860">
     <vendorCode>DCF921NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18844">
     <vendorCode>DCF921P2G</vendorCode>
@@ -1883,7 +1883,7 @@
   <offer id="16107">
     <vendorCode>DT70739T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17381">
     <vendorCode>DT70740T</vendorCode>
@@ -4853,7 +4853,7 @@
   <offer id="11666">
     <vendorCode>DT4288</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11667">
     <vendorCode>DT4290</vendorCode>
@@ -5858,7 +5858,7 @@
   <offer id="15210">
     <vendorCode>DT4588</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15211">
     <vendorCode>DT4589</vendorCode>
@@ -6378,7 +6378,7 @@
   <offer id="14661">
     <vendorCode>DT4960</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14662">
     <vendorCode>DT4961</vendorCode>
@@ -10522,11 +10522,6 @@
   </offer>
   <offer id="17116">
     <vendorCode>DT7450</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="16994">
-    <vendorCode>DT7460</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -18563,7 +18558,7 @@
   <offer id="10618">
     <vendorCode>STHT6-70416</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14292">
     <vendorCode>STHT6-70417</vendorCode>
@@ -21548,7 +21543,7 @@
   <offer id="19844">
     <vendorCode>SYE17-10D</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19849">
     <vendorCode>SY510L</vendorCode>
@@ -22463,7 +22458,7 @@
   <offer id="15695">
     <vendorCode>STST1-80150</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20343">
     <vendorCode>STST40710-1</vendorCode>
@@ -23198,7 +23193,7 @@
   <offer id="16969">
     <vendorCode>SFMEE500S</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17653">
     <vendorCode>SFMCST933M1</vendorCode>
