@@ -3328,7 +3328,7 @@
   <offer id="18359">
     <vendorCode>DCH172NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18345">
     <vendorCode>DCH172P2</vendorCode>
@@ -6238,7 +6238,7 @@
   <offer id="14863">
     <vendorCode>DT4926</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14864">
     <vendorCode>DT4927</vendorCode>
@@ -8488,7 +8488,7 @@
   <offer id="15019">
     <vendorCode>DNBA1644GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18029">
     <vendorCode>DNBA1644SZ</vendorCode>
@@ -8508,7 +8508,7 @@
   <offer id="15021">
     <vendorCode>DNBA1663GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18031">
     <vendorCode>DNBA1663SZ</vendorCode>
@@ -11113,7 +11113,7 @@
   <offer id="16863">
     <vendorCode>DWE46229</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17265">
     <vendorCode>DWH051</vendorCode>
@@ -11218,7 +11218,7 @@
   <offer id="14484">
     <vendorCode>DWV9350</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11959">
     <vendorCode>DWV9401</vendorCode>
@@ -11968,7 +11968,7 @@
   <offer id="17958">
     <vendorCode>DT20666</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17992">
     <vendorCode>DT20667</vendorCode>
@@ -13963,7 +13963,7 @@
   <offer id="14066">
     <vendorCode>N89C-2K-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14068">
     <vendorCode>PN50-E</vendorCode>
@@ -15933,7 +15933,7 @@
   <offer id="18459">
     <vendorCode>STHT0-54154</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18460">
     <vendorCode>STHT0-54155</vendorCode>
@@ -17548,7 +17548,7 @@
   <offer id="8966">
     <vendorCode>1-42-921</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8967">
     <vendorCode>1-42-922</vendorCode>
@@ -17953,7 +17953,7 @@
   <offer id="9075">
     <vendorCode>0-47-681</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11002">
     <vendorCode>STHT0-47244</vendorCode>
@@ -21583,7 +21583,7 @@
   <offer id="19840">
     <vendorCode>SY345C</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22187">
     <vendorCode>SY345HC</vendorCode>
@@ -22460,11 +22460,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="20344">
-    <vendorCode>STST40711-1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="19400">
     <vendorCode>STST75787-1</vendorCode>
     <price>1</price>
@@ -22965,6 +22960,21 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="17653">
+    <vendorCode>SFMCST933M1</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="17654">
+    <vendorCode>SFMCSTB933M</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="21531">
+    <vendorCode>SFMCSTB933M+SFMCHT855M1</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="17643">
     <vendorCode>SFMCMW2651M</vendorCode>
     <price>1</price>
@@ -23187,21 +23197,6 @@
   </offer>
   <offer id="16969">
     <vendorCode>SFMEE500S</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="17653">
-    <vendorCode>SFMCST933M1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="17654">
-    <vendorCode>SFMCSTB933M</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="21531">
-    <vendorCode>SFMCSTB933M+SFMCHT855M1</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
