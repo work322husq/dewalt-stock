@@ -1495,6 +1495,26 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="14784">
+    <vendorCode>DCM571N</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="14715">
+    <vendorCode>DCM571X1</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="17067">
+    <vendorCode>DCMST561N</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="16867">
+    <vendorCode>DCMST561P1</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
   <offer id="20039">
     <vendorCode>DCMWP134N</vendorCode>
     <price>1</price>
@@ -3088,7 +3108,7 @@
   <offer id="14032">
     <vendorCode>DT9633</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13978">
     <vendorCode>DT9635</vendorCode>
@@ -7395,26 +7415,6 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="14784">
-    <vendorCode>DCM571N</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="14715">
-    <vendorCode>DCM571X1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="17067">
-    <vendorCode>DCMST561N</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="16867">
-    <vendorCode>DCMST561P1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="18358">
     <vendorCode>DCE512N</vendorCode>
     <price>1</price>
@@ -8478,7 +8478,7 @@
   <offer id="15018">
     <vendorCode>DNBA1638GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18028">
     <vendorCode>DNBA1638SZ</vendorCode>
@@ -12400,6 +12400,46 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="17277">
+    <vendorCode>BCSTA536L1</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="17278">
+    <vendorCode>BCSTE636L1</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="15477">
+    <vendorCode>BESTA525</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="15481">
+    <vendorCode>BESTE630</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="8629">
+    <vendorCode>GL250</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="10782">
+    <vendorCode>GL360SB</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="10287">
+    <vendorCode>GL9035</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="15476">
+    <vendorCode>ST182320</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
   <offer id="18046">
     <vendorCode>BCMW33184L2</vendorCode>
     <price>1</price>
@@ -12987,46 +13027,6 @@
   </offer>
   <offer id="15590">
     <vendorCode>FSMH13E5</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="17277">
-    <vendorCode>BCSTA536L1</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="17278">
-    <vendorCode>BCSTE636L1</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="15477">
-    <vendorCode>BESTA525</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="15481">
-    <vendorCode>BESTE630</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="8629">
-    <vendorCode>GL250</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="10782">
-    <vendorCode>GL360SB</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="10287">
-    <vendorCode>GL9035</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="15476">
-    <vendorCode>ST182320</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
