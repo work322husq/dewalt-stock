@@ -103,17 +103,17 @@
   <offer id="20725">
     <vendorCode>DCBP318</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20726">
     <vendorCode>DCBP318S2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19111">
     <vendorCode>DCBP518</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19568">
     <vendorCode>DCBP518G</vendorCode>
@@ -2378,7 +2378,7 @@
   <offer id="17145">
     <vendorCode>DT60827</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17146">
     <vendorCode>DT60828</vendorCode>
@@ -2988,7 +2988,7 @@
   <offer id="11222">
     <vendorCode>DT9590</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17321">
     <vendorCode>DT9591</vendorCode>
@@ -4952,6 +4952,11 @@
   </offer>
   <offer id="19437">
     <vendorCode>DT20595</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="19946">
+    <vendorCode>DT20598</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -8748,7 +8753,7 @@
   <offer id="17792">
     <vendorCode>DNR3119HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17790">
     <vendorCode>DNR3122GZ</vendorCode>
@@ -9433,7 +9438,7 @@
   <offer id="19771">
     <vendorCode>DPG54-1D</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19772">
     <vendorCode>DPG54-2D</vendorCode>
@@ -10510,11 +10515,6 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="15095">
-    <vendorCode>DT7440</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="17116">
     <vendorCode>DT7450</vendorCode>
     <price>1</price>
@@ -10668,7 +10668,7 @@
   <offer id="19655">
     <vendorCode>DWMT86090-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14477">
     <vendorCode>D25303DH</vendorCode>
@@ -13783,7 +13783,7 @@
   <offer id="20433">
     <vendorCode>BXCSH2001E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20445">
     <vendorCode>BXFSH2000E</vendorCode>
@@ -14633,12 +14633,12 @@
   <offer id="12614">
     <vendorCode>F250R50Q</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12615">
     <vendorCode>F250R55Q</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12616">
     <vendorCode>F250R57Q</vendorCode>
@@ -19808,7 +19808,7 @@
   <offer id="18582">
     <vendorCode>0-65-096</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18583">
     <vendorCode>0-65-137</vendorCode>
@@ -19988,7 +19988,7 @@
   <offer id="9923">
     <vendorCode>0-65-478</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18575">
     <vendorCode>0-65-479</vendorCode>
@@ -21513,7 +21513,7 @@
   <offer id="19842">
     <vendorCode>SY120-2D</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19843">
     <vendorCode>SY150-1D</vendorCode>
@@ -23018,7 +23018,7 @@
   <offer id="17394">
     <vendorCode>FME1250K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17390">
     <vendorCode>SFMEH200K</vendorCode>
@@ -23198,7 +23198,7 @@
   <offer id="16969">
     <vendorCode>SFMEE500S</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20858">
     <vendorCode>SFMCBL01B</vendorCode>
