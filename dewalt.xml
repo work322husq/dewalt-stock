@@ -408,7 +408,7 @@
   <offer id="18848">
     <vendorCode>DCF922NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18845">
     <vendorCode>DCF922P2T</vendorCode>
@@ -18848,7 +18848,7 @@
   <offer id="16079">
     <vendorCode>FMST1-75672</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10717">
     <vendorCode>STHT1-77139</vendorCode>
