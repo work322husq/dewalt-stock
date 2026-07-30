@@ -5053,7 +5053,7 @@
   <offer id="18656">
     <vendorCode>DWA4522IA</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18655">
     <vendorCode>DWA4525IA</vendorCode>
@@ -7618,7 +7618,7 @@
   <offer id="17798">
     <vendorCode>DCN701N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15406">
     <vendorCode>DCN890N</vendorCode>
@@ -7763,7 +7763,7 @@
   <offer id="17818">
     <vendorCode>DRS18100</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17999">
     <vendorCode>DSTSX15Z</vendorCode>
@@ -11728,7 +11728,7 @@
   <offer id="17249">
     <vendorCode>DT2361</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11754">
     <vendorCode>DT2363</vendorCode>
@@ -13593,7 +13593,7 @@
   <offer id="20583">
     <vendorCode>BXVML701E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20226">
     <vendorCode>BXVMS600E</vendorCode>
@@ -15658,7 +15658,7 @@
   <offer id="19372">
     <vendorCode>FMMT13070-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19373">
     <vendorCode>FMMT13071-0</vendorCode>
@@ -17933,7 +17933,7 @@
   <offer id="10971">
     <vendorCode>0-47-443</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10367">
     <vendorCode>0-47-465</vendorCode>
@@ -20243,7 +20243,7 @@
   <offer id="14745">
     <vendorCode>STHT1-60274</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14746">
     <vendorCode>STHT1-60335</vendorCode>
@@ -21493,7 +21493,7 @@
   <offer id="19401">
     <vendorCode>FMST82962-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19841">
     <vendorCode>SY120-1D</vendorCode>
@@ -22883,7 +22883,7 @@
   <offer id="16631">
     <vendorCode>FME190</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19452">
     <vendorCode>SFMCB12D2</vendorCode>
