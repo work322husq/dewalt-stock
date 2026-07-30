@@ -11213,7 +11213,7 @@
   <offer id="14484">
     <vendorCode>DWV9350</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11959">
     <vendorCode>DWV9401</vendorCode>
@@ -22048,7 +22048,7 @@
   <offer id="12896">
     <vendorCode>1-93-330</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10068">
     <vendorCode>1-93-601</vendorCode>
@@ -23188,7 +23188,7 @@
   <offer id="16969">
     <vendorCode>SFMEE500S</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20858">
     <vendorCode>SFMCBL01B</vendorCode>
