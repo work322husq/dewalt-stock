@@ -628,7 +628,7 @@
   <offer id="21210">
     <vendorCode>DCD794P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15543">
     <vendorCode>DCD796D2</vendorCode>
@@ -4563,7 +4563,7 @@
   <offer id="19920">
     <vendorCode>DT10401_10</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19921">
     <vendorCode>DT10402</vendorCode>
@@ -6273,7 +6273,7 @@
   <offer id="14866">
     <vendorCode>DT4929</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14868">
     <vendorCode>DT4931</vendorCode>
@@ -9018,7 +9018,7 @@
   <offer id="16596">
     <vendorCode>DCK422P3</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17748">
     <vendorCode>DCK422P3T</vendorCode>
@@ -10733,7 +10733,7 @@
   <offer id="16047">
     <vendorCode>DCN8903</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16048">
     <vendorCode>DCN8904</vendorCode>
@@ -11183,7 +11183,7 @@
   <offer id="18360">
     <vendorCode>DWV9120</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17062">
     <vendorCode>DWV9130</vendorCode>
@@ -13958,7 +13958,7 @@
   <offer id="14066">
     <vendorCode>N89C-2K-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14068">
     <vendorCode>PN50-E</vendorCode>
@@ -14628,7 +14628,7 @@
   <offer id="12614">
     <vendorCode>F250R50Q</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12615">
     <vendorCode>F250R55Q</vendorCode>
@@ -19358,7 +19358,7 @@
   <offer id="9672">
     <vendorCode>1-TRA202T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9673">
     <vendorCode>1-TRA204T</vendorCode>
@@ -21498,7 +21498,7 @@
   <offer id="19841">
     <vendorCode>SY120-1D</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19842">
     <vendorCode>SY120-2D</vendorCode>
