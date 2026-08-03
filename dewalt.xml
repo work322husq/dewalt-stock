@@ -83,7 +83,7 @@
   <offer id="16195">
     <vendorCode>DCB548</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18862">
     <vendorCode>DCB549</vendorCode>
@@ -193,7 +193,7 @@
   <offer id="19969">
     <vendorCode>DPC10QTC</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19970">
     <vendorCode>DPC10RC</vendorCode>
@@ -913,7 +913,7 @@
   <offer id="14405">
     <vendorCode>DCB118</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21027">
     <vendorCode>DCB118_N473860</vendorCode>
@@ -938,7 +938,7 @@
   <offer id="14407">
     <vendorCode>DCB132</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14408">
     <vendorCode>DCB132T2</vendorCode>
@@ -1648,7 +1648,7 @@
   <offer id="20729">
     <vendorCode>DCLE14201RB</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20642">
     <vendorCode>DCLE34021N</vendorCode>
@@ -2823,7 +2823,7 @@
   <offer id="11193">
     <vendorCode>DT9547</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11194">
     <vendorCode>DT9548</vendorCode>
@@ -2913,7 +2913,7 @@
   <offer id="11210">
     <vendorCode>DT9572</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14691">
     <vendorCode>DT9573</vendorCode>
@@ -4053,7 +4053,7 @@
   <offer id="18351">
     <vendorCode>DCF850N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18352">
     <vendorCode>DCF850NT</vendorCode>
@@ -4263,7 +4263,7 @@
   <offer id="21260">
     <vendorCode>DCG408N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21259">
     <vendorCode>DCG408NT</vendorCode>
@@ -5838,7 +5838,7 @@
   <offer id="11333">
     <vendorCode>DT4520</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11550">
     <vendorCode>DT4535</vendorCode>
@@ -6378,7 +6378,7 @@
   <offer id="17388">
     <vendorCode>DT4956</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16077">
     <vendorCode>DT4957</vendorCode>
@@ -8593,7 +8593,7 @@
   <offer id="16053">
     <vendorCode>DNBT1825GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16054">
     <vendorCode>DNBT1830GZ</vendorCode>
@@ -9108,7 +9108,7 @@
   <offer id="20147">
     <vendorCode>DXPW002E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21957">
     <vendorCode>DXPW002I</vendorCode>
@@ -9428,7 +9428,7 @@
   <offer id="19770">
     <vendorCode>DPG52-1D</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19771">
     <vendorCode>DPG54-1D</vendorCode>
@@ -9518,7 +9518,7 @@
   <offer id="19798">
     <vendorCode>DPG70L</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19795">
     <vendorCode>DPG72L</vendorCode>
@@ -10793,7 +10793,7 @@
   <offer id="11922">
     <vendorCode>DE0734</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11923">
     <vendorCode>DE0735</vendorCode>
@@ -12013,7 +12013,7 @@
   <offer id="21460">
     <vendorCode>DT20692</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20048">
     <vendorCode>DT20693</vendorCode>
@@ -21118,7 +21118,7 @@
   <offer id="20083">
     <vendorCode>STA33316</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15796">
     <vendorCode>STA33376</vendorCode>
@@ -21808,7 +21808,7 @@
   <offer id="20025">
     <vendorCode>152172XSTN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20156">
     <vendorCode>EVO160</vendorCode>
