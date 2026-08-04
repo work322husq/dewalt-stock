@@ -1083,7 +1083,7 @@
   <offer id="19582">
     <vendorCode>DCH911NK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19583">
     <vendorCode>DCH911X3</vendorCode>
@@ -4065,6 +4065,11 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="20679">
+    <vendorCode>DCF85MM1T</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
   <offer id="20680">
     <vendorCode>DCF85MM2T</vendorCode>
     <price>1</price>
@@ -4333,7 +4338,7 @@
   <offer id="19593">
     <vendorCode>DCG460N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19594">
     <vendorCode>DCG460NK</vendorCode>
@@ -9318,7 +9323,7 @@
   <offer id="19004">
     <vendorCode>DCMCS575X1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21456">
     <vendorCode>DCMCST635N</vendorCode>
