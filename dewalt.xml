@@ -3993,12 +3993,12 @@
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15422">
     <vendorCode>DCF620P2K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15989">
     <vendorCode>DCF622N</vendorCode>
@@ -4348,7 +4348,7 @@
   <offer id="19594">
     <vendorCode>DCG460NK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19595">
     <vendorCode>DCG460X2</vendorCode>
@@ -6753,7 +6753,7 @@
   <offer id="11432">
     <vendorCode>DT5549_1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11433">
     <vendorCode>DT5550</vendorCode>
@@ -19328,7 +19328,7 @@
   <offer id="15647">
     <vendorCode>STHT0-54126</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14816">
     <vendorCode>STHT0-54127</vendorCode>
@@ -20948,7 +20948,7 @@
   <offer id="10737">
     <vendorCode>1-GS20DT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18543">
     <vendorCode>STHT1-70436</vendorCode>
@@ -22978,7 +22978,7 @@
   <offer id="21527">
     <vendorCode>SFMCMW2651M+SFMCSTB933M</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19423">
     <vendorCode>SFMCMWS251M</vendorCode>
