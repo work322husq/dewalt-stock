@@ -628,7 +628,7 @@
   <offer id="21210">
     <vendorCode>DCD794P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15543">
     <vendorCode>DCD796D2</vendorCode>
@@ -878,7 +878,7 @@
   <offer id="16944">
     <vendorCode>DCB104</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19303">
     <vendorCode>DCB1104</vendorCode>
@@ -923,7 +923,7 @@
   <offer id="14406">
     <vendorCode>DCB118T2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15136">
     <vendorCode>DCB118X2</vendorCode>
@@ -5293,7 +5293,7 @@
   <offer id="17838">
     <vendorCode>DT90309</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17839">
     <vendorCode>DT90310</vendorCode>
@@ -6773,7 +6773,7 @@
   <offer id="11436">
     <vendorCode>DT5551_1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11437">
     <vendorCode>DT5552</vendorCode>
@@ -7428,7 +7428,7 @@
   <offer id="18358">
     <vendorCode>DCE512N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17492">
     <vendorCode>DCMBA572N</vendorCode>
@@ -8433,7 +8433,7 @@
   <offer id="16020">
     <vendorCode>DCN8901055</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16129">
     <vendorCode>DCN8902015</vendorCode>
@@ -9108,7 +9108,7 @@
   <offer id="20153">
     <vendorCode>DXPW002CEKART</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20147">
     <vendorCode>DXPW002E</vendorCode>
@@ -19638,7 +19638,7 @@
   <offer id="9713">
     <vendorCode>5-21-293</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10172">
     <vendorCode>5-21-299</vendorCode>
@@ -19943,7 +19943,7 @@
   <offer id="10824">
     <vendorCode>0-65-413</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10901">
     <vendorCode>0-65-414</vendorCode>
