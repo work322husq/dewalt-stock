@@ -3653,7 +3653,7 @@
   <offer id="16960">
     <vendorCode>DCS571N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16947">
     <vendorCode>DCS571NT</vendorCode>
@@ -4997,6 +4997,11 @@
   </offer>
   <offer id="11598">
     <vendorCode>DT3450-QZ</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="15375">
+    <vendorCode>DT3507</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -6828,7 +6833,7 @@
   <offer id="11447">
     <vendorCode>DT5557</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11448">
     <vendorCode>DT5557_1</vendorCode>
@@ -8188,12 +8193,12 @@
   <offer id="11693">
     <vendorCode>DT3115XM</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11694">
     <vendorCode>DT3115XM_25_1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11695">
     <vendorCode>DT3116XM</vendorCode>
@@ -8393,7 +8398,7 @@
   <offer id="16128">
     <vendorCode>DCN8901015</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16013">
     <vendorCode>DCN8901020</vendorCode>
@@ -9358,7 +9363,7 @@
   <offer id="19558">
     <vendorCode>DCF403NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19562">
     <vendorCode>DCF414E2GT</vendorCode>
@@ -12468,7 +12473,7 @@
   <offer id="15465">
     <vendorCode>BEMW451</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15466">
     <vendorCode>BEMW461BH</vendorCode>
@@ -18248,7 +18253,7 @@
   <offer id="20332">
     <vendorCode>STMT82830-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8777">
     <vendorCode>0-69-251</vendorCode>
@@ -18553,7 +18558,7 @@
   <offer id="10618">
     <vendorCode>STHT6-70416</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14292">
     <vendorCode>STHT6-70417</vendorCode>
@@ -20650,6 +20655,11 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="16612">
+    <vendorCode>FMST82967-1</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="10830">
     <vendorCode>0-84-000</vendorCode>
     <price>1</price>
@@ -20948,7 +20958,7 @@
   <offer id="10737">
     <vendorCode>1-GS20DT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18543">
     <vendorCode>STHT1-70436</vendorCode>
@@ -21618,7 +21628,7 @@
   <offer id="19993">
     <vendorCode>150133XSTN</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19995">
     <vendorCode>151093XSTN</vendorCode>
@@ -23013,7 +23023,7 @@
   <offer id="17394">
     <vendorCode>FME1250K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17390">
     <vendorCode>SFMEH200K</vendorCode>
