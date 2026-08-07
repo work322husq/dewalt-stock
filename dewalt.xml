@@ -918,7 +918,7 @@
   <offer id="21027">
     <vendorCode>DCB118_N473860</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14406">
     <vendorCode>DCB118T2</vendorCode>
@@ -2863,7 +2863,7 @@
   <offer id="11200">
     <vendorCode>DT9557</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11201">
     <vendorCode>DT9558</vendorCode>
@@ -3988,7 +3988,7 @@
   <offer id="14054">
     <vendorCode>DCF620D2K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
@@ -4593,7 +4593,7 @@
   <offer id="19915">
     <vendorCode>DT10624</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19916">
     <vendorCode>DT10640</vendorCode>
@@ -4948,7 +4948,7 @@
   <offer id="15999">
     <vendorCode>DT99561</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18654">
     <vendorCode>DT20540</vendorCode>
@@ -6023,7 +6023,7 @@
   <offer id="18827">
     <vendorCode>DT4773</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18828">
     <vendorCode>DT4774</vendorCode>
@@ -7288,7 +7288,7 @@
   <offer id="11282">
     <vendorCode>DT6803</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11283">
     <vendorCode>DT6804</vendorCode>
@@ -13138,7 +13138,7 @@
   <offer id="16976">
     <vendorCode>BHHV520BFP</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17222">
     <vendorCode>BHHV520BT</vendorCode>
@@ -13628,7 +13628,7 @@
   <offer id="20223">
     <vendorCode>BXAP60E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20220">
     <vendorCode>BXAF5000E</vendorCode>
