@@ -1898,7 +1898,7 @@
   <offer id="16120">
     <vendorCode>DT70730T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16121">
     <vendorCode>DT70731T</vendorCode>
@@ -4527,11 +4527,6 @@
   </offer>
   <offer id="14005">
     <vendorCode>DWE6423</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="11623">
-    <vendorCode>DT10300</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
