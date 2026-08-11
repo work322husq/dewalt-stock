@@ -1663,7 +1663,7 @@
   <offer id="18998">
     <vendorCode>DCLE34031N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20731">
     <vendorCode>DCLE34035B</vendorCode>
@@ -3988,12 +3988,12 @@
   <offer id="14054">
     <vendorCode>DCF620D2K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15422">
     <vendorCode>DCF620P2K</vendorCode>
@@ -4693,7 +4693,7 @@
   <offer id="14286">
     <vendorCode>DT1945</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14287">
     <vendorCode>DT1946</vendorCode>
@@ -8593,7 +8593,7 @@
   <offer id="15707">
     <vendorCode>DNBT1820GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16053">
     <vendorCode>DNBT1825GZ</vendorCode>
@@ -19943,7 +19943,7 @@
   <offer id="10824">
     <vendorCode>0-65-413</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10901">
     <vendorCode>0-65-414</vendorCode>
@@ -21973,7 +21973,7 @@
   <offer id="10060">
     <vendorCode>1-79-213</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10736">
     <vendorCode>1-79-215</vendorCode>
