@@ -463,7 +463,7 @@
   <offer id="8886">
     <vendorCode>D27300</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="8888">
     <vendorCode>DW733</vendorCode>
@@ -1588,7 +1588,7 @@
   <offer id="20409">
     <vendorCode>DCMHT573N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20410">
     <vendorCode>DCMHT573X1</vendorCode>
@@ -3373,7 +3373,7 @@
   <offer id="16453">
     <vendorCode>DCH273N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15426">
     <vendorCode>DCH273NT</vendorCode>
@@ -3523,7 +3523,7 @@
   <offer id="8872">
     <vendorCode>D24000</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17807">
     <vendorCode>D36000</vendorCode>
@@ -11280,11 +11280,6 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="20635">
-    <vendorCode>DXVA19-2558</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="19825">
     <vendorCode>DXVA19-2591</vendorCode>
     <price>1</price>
@@ -11393,7 +11388,7 @@
   <offer id="21217">
     <vendorCode>DCMPP569N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21216">
     <vendorCode>DCMPP569P1</vendorCode>
@@ -13603,7 +13598,7 @@
   <offer id="20226">
     <vendorCode>BXVMS600E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20582">
     <vendorCode>BXVMS601E</vendorCode>
@@ -19788,7 +19783,7 @@
   <offer id="18578">
     <vendorCode>0-65-017</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18579">
     <vendorCode>0-65-093</vendorCode>
@@ -19873,7 +19868,7 @@
   <offer id="9916">
     <vendorCode>0-65-337</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="9917">
     <vendorCode>0-65-338</vendorCode>
@@ -22603,7 +22598,7 @@
   <offer id="20606">
     <vendorCode>SXWT-HT522</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20605">
     <vendorCode>SXWT-HT523</vendorCode>
