@@ -1663,7 +1663,7 @@
   <offer id="18998">
     <vendorCode>DCLE34031N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20731">
     <vendorCode>DCLE34035B</vendorCode>
@@ -4193,7 +4193,7 @@
   <offer id="22238">
     <vendorCode>DCG404NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22239">
     <vendorCode>DCG404S2T</vendorCode>
@@ -5503,7 +5503,7 @@
   <offer id="17933">
     <vendorCode>DT90369</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11578">
     <vendorCode>DT6772</vendorCode>
@@ -7293,7 +7293,7 @@
   <offer id="11287">
     <vendorCode>DT6808</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11288">
     <vendorCode>DT6809</vendorCode>
@@ -8028,7 +8028,7 @@
   <offer id="11683">
     <vendorCode>DT3092</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11684">
     <vendorCode>DT3093</vendorCode>
@@ -8058,7 +8058,7 @@
   <offer id="11734">
     <vendorCode>DTM3095</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11715">
     <vendorCode>DT3301</vendorCode>
@@ -8408,7 +8408,7 @@
   <offer id="16017">
     <vendorCode>DCN8901040</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16018">
     <vendorCode>DCN8901045</vendorCode>
@@ -9293,7 +9293,7 @@
   <offer id="21145">
     <vendorCode>DCMCS565N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21472">
     <vendorCode>DCMCS565P1</vendorCode>
@@ -10888,7 +10888,7 @@
   <offer id="12086">
     <vendorCode>DE7333</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17906">
     <vendorCode>DT20500</vendorCode>
@@ -11483,7 +11483,7 @@
   <offer id="11890">
     <vendorCode>DT20703</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11891">
     <vendorCode>DT20704</vendorCode>
@@ -11678,7 +11678,7 @@
   <offer id="21542">
     <vendorCode>DT2323_1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17246">
     <vendorCode>DT2333</vendorCode>
@@ -13743,7 +13743,7 @@
   <offer id="20437">
     <vendorCode>BXMRA1500E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20434">
     <vendorCode>BXRA1500E</vendorCode>
@@ -16528,7 +16528,7 @@
   <offer id="16398">
     <vendorCode>STHT20354-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16399">
     <vendorCode>STHT20355-1</vendorCode>
@@ -19328,7 +19328,7 @@
   <offer id="15647">
     <vendorCode>STHT0-54126</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14816">
     <vendorCode>STHT0-54127</vendorCode>
@@ -21423,7 +21423,7 @@
   <offer id="20036">
     <vendorCode>SXACC0014</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20038">
     <vendorCode>SXACC0031</vendorCode>
@@ -22782,11 +22782,6 @@
   </offer>
   <offer id="19449">
     <vendorCode>SFMCB206</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="16964">
-    <vendorCode>FMC710D2</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
