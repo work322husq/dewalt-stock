@@ -923,7 +923,7 @@
   <offer id="14406">
     <vendorCode>DCB118T2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15136">
     <vendorCode>DCB118X2</vendorCode>
@@ -4985,11 +4985,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="15375">
-    <vendorCode>DT3507</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="17229">
     <vendorCode>DT42340Z</vendorCode>
     <price>1</price>
@@ -5888,7 +5883,7 @@
   <offer id="11335">
     <vendorCode>DT4600</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14633">
     <vendorCode>DT4636</vendorCode>
@@ -8248,7 +8243,7 @@
   <offer id="18882">
     <vendorCode>DTM8683</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19134">
     <vendorCode>DT20590</vendorCode>
@@ -11523,7 +11518,7 @@
   <offer id="11904">
     <vendorCode>DT20717</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11905">
     <vendorCode>DT20718</vendorCode>
@@ -13948,7 +13943,7 @@
   <offer id="14066">
     <vendorCode>N89C-2K-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14068">
     <vendorCode>PN50-E</vendorCode>
@@ -17413,7 +17408,7 @@
   <offer id="15826">
     <vendorCode>STHT77498-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15827">
     <vendorCode>STHT77499-1</vendorCode>
@@ -17658,7 +17653,7 @@
   <offer id="10746">
     <vendorCode>STHT1-43117</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10720">
     <vendorCode>STHT0-77406</vendorCode>
@@ -22418,7 +22413,7 @@
   <offer id="16405">
     <vendorCode>STST1-80114</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16406">
     <vendorCode>STST1-80116</vendorCode>
