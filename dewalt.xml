@@ -3578,7 +3578,7 @@
   <offer id="21263">
     <vendorCode>DCS383N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20060">
     <vendorCode>DCS438E2T</vendorCode>
@@ -13738,7 +13738,7 @@
   <offer id="20434">
     <vendorCode>BXRA1500E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20435">
     <vendorCode>BXRA2000E</vendorCode>
@@ -17587,11 +17587,6 @@
   </offer>
   <offer id="16370">
     <vendorCode>FMHT42553-1</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="16373">
-    <vendorCode>FMHT42559-1</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
