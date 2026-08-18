@@ -3748,7 +3748,7 @@
   <offer id="16456">
     <vendorCode>DCS335NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16457">
     <vendorCode>DCS335P2</vendorCode>
@@ -4203,7 +4203,7 @@
   <offer id="15748">
     <vendorCode>DCG405FN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19124">
     <vendorCode>DCG405H2T</vendorCode>
@@ -10463,7 +10463,7 @@
   <offer id="21683">
     <vendorCode>DWST98236-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20747">
     <vendorCode>DXWT-201</vendorCode>
@@ -10793,7 +10793,7 @@
   <offer id="11923">
     <vendorCode>DE0735</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11925">
     <vendorCode>DE0737</vendorCode>
@@ -11158,7 +11158,7 @@
   <offer id="11992">
     <vendorCode>DWS5029</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20423">
     <vendorCode>DWS5030</vendorCode>
@@ -12078,7 +12078,7 @@
   <offer id="17766">
     <vendorCode>BL2518</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15296">
     <vendorCode>BL4018</vendorCode>
@@ -15238,7 +15238,7 @@
   <offer id="21379">
     <vendorCode>FMXCM0208E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19963">
     <vendorCode>FMXCMD152WE</vendorCode>
@@ -16228,7 +16228,7 @@
   <offer id="14255">
     <vendorCode>STHT0-62687</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20341">
     <vendorCode>STHT10018-9</vendorCode>
