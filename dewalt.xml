@@ -13465,11 +13465,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="20245">
-    <vendorCode>BXSS2200E</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="20244">
     <vendorCode>BXSS2400E</vendorCode>
     <price>1</price>
@@ -13515,11 +13510,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="20227">
-    <vendorCode>BXHB1501E</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="20232">
     <vendorCode>BXHB600E</vendorCode>
     <price>1</price>
@@ -13559,11 +13549,6 @@
     <vendorCode>BXCJ25E</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="21348">
-    <vendorCode>BXJE200E</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20233">
     <vendorCode>BXJE600E</vendorCode>
@@ -13692,11 +13677,6 @@
   </offer>
   <offer id="20208">
     <vendorCode>BXGD2200E</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="20207">
-    <vendorCode>BXGR1000E</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
