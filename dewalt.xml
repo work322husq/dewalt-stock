@@ -938,7 +938,7 @@
   <offer id="21027">
     <vendorCode>DCB118_N473860</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14406">
     <vendorCode>DCB118T2</vendorCode>
@@ -5333,12 +5333,12 @@
   <offer id="17843">
     <vendorCode>DT90314</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17844">
     <vendorCode>DT90315</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17845">
     <vendorCode>DT90316</vendorCode>
@@ -9828,7 +9828,7 @@
   <offer id="20783">
     <vendorCode>DWF50232-101-11</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20780">
     <vendorCode>DWF50232-101-8</vendorCode>
@@ -15278,7 +15278,7 @@
   <offer id="21433">
     <vendorCode>SXIF0001</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20503">
     <vendorCode>SXIF0101</vendorCode>
