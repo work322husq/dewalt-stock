@@ -1793,7 +1793,7 @@
   <offer id="21337">
     <vendorCode>DWHT48335-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21338">
     <vendorCode>DWHT48335RC-0</vendorCode>
@@ -2618,7 +2618,7 @@
   <offer id="16174">
     <vendorCode>DT8935</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16175">
     <vendorCode>DT8936</vendorCode>
@@ -3673,7 +3673,7 @@
   <offer id="16960">
     <vendorCode>DCS571N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16947">
     <vendorCode>DCS571NT</vendorCode>
@@ -4013,7 +4013,7 @@
   <offer id="22582">
     <vendorCode>DCF620E1K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
@@ -4663,7 +4663,7 @@
   <offer id="17296">
     <vendorCode>DT1931</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14281">
     <vendorCode>DT1932</vendorCode>
@@ -8348,7 +8348,7 @@
   <offer id="17115">
     <vendorCode>DT90294</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15673">
     <vendorCode>DT7505</vendorCode>
@@ -9368,7 +9368,7 @@
   <offer id="19558">
     <vendorCode>DCF403NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19562">
     <vendorCode>DCF414E2GT</vendorCode>
@@ -10103,7 +10103,7 @@
   <offer id="19107">
     <vendorCode>DT70804</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19109">
     <vendorCode>DT70805</vendorCode>
@@ -10368,7 +10368,7 @@
   <offer id="17170">
     <vendorCode>DWST83344-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17169">
     <vendorCode>DWST83345-1</vendorCode>
@@ -10388,12 +10388,12 @@
   <offer id="17173">
     <vendorCode>DWST83347-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20707">
     <vendorCode>DWST83347-1M</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17730">
     <vendorCode>DWST83392-1</vendorCode>
@@ -10443,7 +10443,7 @@
   <offer id="20137">
     <vendorCode>DWST83517-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20135">
     <vendorCode>DWST83520-1</vendorCode>
@@ -10863,7 +10863,7 @@
   <offer id="11968">
     <vendorCode>DE6277</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11969">
     <vendorCode>DE6278</vendorCode>
@@ -11178,7 +11178,7 @@
   <offer id="11992">
     <vendorCode>DWS5029</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20423">
     <vendorCode>DWS5030</vendorCode>
@@ -11308,7 +11308,7 @@
   <offer id="20512">
     <vendorCode>DXVA19-4201</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19818">
     <vendorCode>DXVA19-4204</vendorCode>
@@ -20163,7 +20163,7 @@
   <offer id="14736">
     <vendorCode>STHT0-60276</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14737">
     <vendorCode>STHT0-60280</vendorCode>
