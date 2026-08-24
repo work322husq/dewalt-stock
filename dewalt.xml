@@ -598,7 +598,7 @@
   <offer id="16439">
     <vendorCode>DCD777M2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14150">
     <vendorCode>DCD791D2</vendorCode>
@@ -2783,7 +2783,7 @@
   <offer id="11183">
     <vendorCode>DT9532</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14688">
     <vendorCode>DT9533</vendorCode>
@@ -5528,7 +5528,7 @@
   <offer id="17933">
     <vendorCode>DT90369</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11578">
     <vendorCode>DT6772</vendorCode>
@@ -8648,7 +8648,7 @@
   <offer id="16058">
     <vendorCode>DNBT1845GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16065">
     <vendorCode>DNBT1845SZ</vendorCode>
@@ -11438,7 +11438,7 @@
   <offer id="18394">
     <vendorCode>DT20437</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18391">
     <vendorCode>DT20438</vendorCode>
@@ -12353,7 +12353,7 @@
   <offer id="18032">
     <vendorCode>BDC2A36</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15338">
     <vendorCode>BDCU15AN</vendorCode>
@@ -15278,7 +15278,7 @@
   <offer id="21433">
     <vendorCode>SXIF0001</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20503">
     <vendorCode>SXIF0101</vendorCode>
@@ -17847,16 +17847,6 @@
   </offer>
   <offer id="20120">
     <vendorCode>STHT37237-5</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="20371">
-    <vendorCode>STHT37239-3</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
-  <offer id="20372">
-    <vendorCode>STHT37240-3</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
