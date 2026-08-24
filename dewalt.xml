@@ -18238,7 +18238,7 @@
   <offer id="18335">
     <vendorCode>STMT82670-0</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18336">
     <vendorCode>STMT82671-0</vendorCode>
@@ -21518,7 +21518,7 @@
   <offer id="19845">
     <vendorCode>SYE15-11D</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19846">
     <vendorCode>SYE15-21D</vendorCode>
