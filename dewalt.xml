@@ -3780,11 +3780,6 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="17665">
-    <vendorCode>DW331KT</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="17232">
     <vendorCode>DWE349</vendorCode>
     <price>1</price>
@@ -4418,7 +4413,7 @@
   <offer id="14495">
     <vendorCode>DWE4238</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14496">
     <vendorCode>DWE4257</vendorCode>
@@ -4783,7 +4778,7 @@
   <offer id="17245">
     <vendorCode>DT1958</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15468">
     <vendorCode>DT1959</vendorCode>
@@ -5138,7 +5133,7 @@
   <offer id="21232">
     <vendorCode>DCDW105</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21233">
     <vendorCode>DCDW106</vendorCode>
@@ -5283,7 +5278,7 @@
   <offer id="17832">
     <vendorCode>DT90303</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17833">
     <vendorCode>DT90304</vendorCode>
@@ -5398,7 +5393,7 @@
   <offer id="17855">
     <vendorCode>DT90327</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17856">
     <vendorCode>DT90328</vendorCode>
@@ -8653,7 +8648,7 @@
   <offer id="16065">
     <vendorCode>DNBT1845SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16059">
     <vendorCode>DNBT1850GZ</vendorCode>
@@ -9098,7 +9093,7 @@
   <offer id="20632">
     <vendorCode>DXPW001DTS-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20146">
     <vendorCode>DXPW001M</vendorCode>
