@@ -18358,7 +18358,7 @@
   <offer id="19220">
     <vendorCode>1-03-851</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10214">
     <vendorCode>1-47-324</vendorCode>
@@ -22583,7 +22583,7 @@
   <offer id="20606">
     <vendorCode>SXWT-HT522</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20605">
     <vendorCode>SXWT-HT523</vendorCode>
