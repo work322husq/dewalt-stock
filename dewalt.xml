@@ -6408,7 +6408,7 @@
   <offer id="16077">
     <vendorCode>DT4957</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14659">
     <vendorCode>DT4958</vendorCode>
@@ -13618,7 +13618,7 @@
   <offer id="20226">
     <vendorCode>BXVMS600E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20582">
     <vendorCode>BXVMS601E</vendorCode>
