@@ -2683,7 +2683,7 @@
   <offer id="11167">
     <vendorCode>DT9504</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11168">
     <vendorCode>DT9505</vendorCode>
@@ -3098,7 +3098,7 @@
   <offer id="11234">
     <vendorCode>DT9616</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15549">
     <vendorCode>DT9617</vendorCode>
@@ -5718,7 +5718,7 @@
   <offer id="19157">
     <vendorCode>DT20605</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19158">
     <vendorCode>DT20606</vendorCode>
@@ -5863,7 +5863,7 @@
   <offer id="11333">
     <vendorCode>DT4520</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11550">
     <vendorCode>DT4535</vendorCode>
@@ -6943,7 +6943,7 @@
   <offer id="13230">
     <vendorCode>DT5913</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11553">
     <vendorCode>DT5921</vendorCode>
@@ -18208,7 +18208,7 @@
   <offer id="19752">
     <vendorCode>FMMT98101-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19749">
     <vendorCode>FMMT98103-1</vendorCode>
@@ -18743,7 +18743,7 @@
   <offer id="20712">
     <vendorCode>SXSPBS12E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20711">
     <vendorCode>SXSPBS16E</vendorCode>
@@ -22593,7 +22593,7 @@
   <offer id="20605">
     <vendorCode>SXWT-HT523</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20749">
     <vendorCode>SXWT-HT526</vendorCode>
