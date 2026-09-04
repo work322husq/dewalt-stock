@@ -203,7 +203,7 @@
   <offer id="19971">
     <vendorCode>DPC17PS</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19968">
     <vendorCode>DPC6MRC</vendorCode>
@@ -363,7 +363,7 @@
   <offer id="17885">
     <vendorCode>DCF903P1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19465">
     <vendorCode>DCF903P1G</vendorCode>
@@ -3443,7 +3443,7 @@
   <offer id="14789">
     <vendorCode>DCH333X2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16454">
     <vendorCode>DCH335X2</vendorCode>
@@ -6483,7 +6483,7 @@
   <offer id="11360">
     <vendorCode>DT5035</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11361">
     <vendorCode>DT5036</vendorCode>
@@ -9098,7 +9098,7 @@
   <offer id="20632">
     <vendorCode>DXPW001DTS-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20146">
     <vendorCode>DXPW001M</vendorCode>
@@ -9193,7 +9193,7 @@
   <offer id="21226">
     <vendorCode>DCPS320N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21239">
     <vendorCode>DCPS3382</vendorCode>
@@ -11653,7 +11653,7 @@
   <offer id="11883">
     <vendorCode>DT2292</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11884">
     <vendorCode>DT2294</vendorCode>
@@ -11938,7 +11938,7 @@
   <offer id="17957">
     <vendorCode>DT20658</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15758">
     <vendorCode>DT20660</vendorCode>
@@ -12113,7 +12113,7 @@
   <offer id="17767">
     <vendorCode>BL5018</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17972">
     <vendorCode>BCRT8I</vendorCode>
