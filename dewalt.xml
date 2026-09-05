@@ -830,11 +830,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="10592">
-    <vendorCode>D21570K</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="10097">
     <vendorCode>DWD014S</vendorCode>
     <price>1</price>
