@@ -63,7 +63,7 @@
   <offer id="14404">
     <vendorCode>DCB546</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21025">
     <vendorCode>DCB546_N473851</vendorCode>
@@ -193,7 +193,7 @@
   <offer id="19969">
     <vendorCode>DPC10QTC</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19970">
     <vendorCode>DPC10RC</vendorCode>
@@ -388,7 +388,7 @@
   <offer id="18860">
     <vendorCode>DCF921NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18844">
     <vendorCode>DCF921P2G</vendorCode>
@@ -827,6 +827,11 @@
   </offer>
   <offer id="8681">
     <vendorCode>D21441</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="10592">
+    <vendorCode>D21570K</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -1658,7 +1663,7 @@
   <offer id="17799">
     <vendorCode>DCE089D1G18</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17800">
     <vendorCode>DCE089NG18</vendorCode>
@@ -3378,7 +3383,7 @@
   <offer id="18345">
     <vendorCode>DCH172P2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16608">
     <vendorCode>DCH263N</vendorCode>
@@ -3603,7 +3608,7 @@
   <offer id="21263">
     <vendorCode>DCS383N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20060">
     <vendorCode>DCS438E2T</vendorCode>
@@ -3793,7 +3798,7 @@
   <offer id="16986">
     <vendorCode>DCS312N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15431">
     <vendorCode>DCS367N</vendorCode>
@@ -4283,7 +4288,7 @@
   <offer id="21256">
     <vendorCode>DCG407M2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21258">
     <vendorCode>DCG407N</vendorCode>
@@ -4298,12 +4303,12 @@
   <offer id="21260">
     <vendorCode>DCG408N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21259">
     <vendorCode>DCG408NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19121">
     <vendorCode>DCG409VSN</vendorCode>
@@ -11293,7 +11298,7 @@
   <offer id="20512">
     <vendorCode>DXVA19-4201</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19818">
     <vendorCode>DXVA19-4204</vendorCode>
@@ -15578,7 +15583,7 @@
   <offer id="19732">
     <vendorCode>FMMT13031-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19727">
     <vendorCode>FMMT13033-0</vendorCode>
@@ -17748,7 +17753,7 @@
   <offer id="8914">
     <vendorCode>0-34-108</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18535">
     <vendorCode>0-34-295</vendorCode>
@@ -20090,11 +20095,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="18571">
-    <vendorCode>FMHT0-64985</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="19390">
     <vendorCode>FMHT1-62619</vendorCode>
     <price>1</price>
@@ -21073,7 +21073,7 @@
   <offer id="12933">
     <vendorCode>STA29961</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16654">
     <vendorCode>STA29962</vendorCode>
