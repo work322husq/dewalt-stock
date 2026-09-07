@@ -803,7 +803,7 @@
   <offer id="15413">
     <vendorCode>DCD991NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14493">
     <vendorCode>DCD991P2</vendorCode>
@@ -4298,7 +4298,7 @@
   <offer id="21260">
     <vendorCode>DCG408N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21259">
     <vendorCode>DCG408NT</vendorCode>
@@ -4423,7 +4423,7 @@
   <offer id="15035">
     <vendorCode>DWE4257KT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14459">
     <vendorCode>DWE4277</vendorCode>
@@ -4693,7 +4693,7 @@
   <offer id="14282">
     <vendorCode>DT1937</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14283">
     <vendorCode>DT1938</vendorCode>
@@ -7078,7 +7078,7 @@
   <offer id="11478">
     <vendorCode>DT6677</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17550">
     <vendorCode>DT6678</vendorCode>
@@ -9093,7 +9093,7 @@
   <offer id="20632">
     <vendorCode>DXPW001DTS-E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20146">
     <vendorCode>DXPW001M</vendorCode>
@@ -9508,7 +9508,7 @@
   <offer id="19787">
     <vendorCode>DPG33L</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19796">
     <vendorCode>DPG35L</vendorCode>
@@ -16238,7 +16238,7 @@
   <offer id="14255">
     <vendorCode>STHT0-62687</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20341">
     <vendorCode>STHT10018-9</vendorCode>
@@ -17828,7 +17828,7 @@
   <offer id="20118">
     <vendorCode>STHT37235-5</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20119">
     <vendorCode>STHT37236-5</vendorCode>
@@ -22058,7 +22058,7 @@
   <offer id="10332">
     <vendorCode>1-93-978</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10333">
     <vendorCode>1-93-980</vendorCode>
