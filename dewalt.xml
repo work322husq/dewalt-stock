@@ -1743,7 +1743,7 @@
   <offer id="19717">
     <vendorCode>DWHT0-43248</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19720">
     <vendorCode>DWHT42525-0</vendorCode>
@@ -2853,7 +2853,7 @@
   <offer id="11193">
     <vendorCode>DT9547</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11194">
     <vendorCode>DT9548</vendorCode>
@@ -4468,7 +4468,7 @@
   <offer id="13715">
     <vendorCode>DWE492</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15444">
     <vendorCode>DWE492S</vendorCode>
@@ -8383,7 +8383,7 @@
   <offer id="16054">
     <vendorCode>DNBT1830GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16062">
     <vendorCode>DNBT1830SZ</vendorCode>
@@ -8408,7 +8408,7 @@
   <offer id="16057">
     <vendorCode>DNBT1840GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16064">
     <vendorCode>DNBT1840SZ</vendorCode>
@@ -8828,7 +8828,7 @@
   <offer id="16597">
     <vendorCode>DCK623P3</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17750">
     <vendorCode>DCK685P3T</vendorCode>
@@ -9470,6 +9470,26 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="22607">
+    <vendorCode>DXWWMC341-001-L</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22608">
+    <vendorCode>DXWWMC341-001-M</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22606">
+    <vendorCode>DXWWMC341-001-XL</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22605">
+    <vendorCode>DXWWMC341-001-XXL</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="20805">
     <vendorCode>DWC52-001-L</vendorCode>
     <price>1</price>
@@ -9490,6 +9510,26 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="22603">
+    <vendorCode>DXWWMC340-001-L</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22604">
+    <vendorCode>DXWWMC340-001-M</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22602">
+    <vendorCode>DXWWMC340-001-XL</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22601">
+    <vendorCode>DXWWMC340-001-XXL</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="20797">
     <vendorCode>DWC125-013-L</vendorCode>
     <price>1</price>
@@ -9509,6 +9549,26 @@
     <vendorCode>DWC125-013-XXL</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="22599">
+    <vendorCode>DWC306-001-L</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22600">
+    <vendorCode>DWC306-001-M</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22598">
+    <vendorCode>DWC306-001-XL</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22597">
+    <vendorCode>DWC306-001-XXL</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20786">
     <vendorCode>DWF50091-126-10</vendorCode>
@@ -11273,7 +11333,7 @@
   <offer id="11893">
     <vendorCode>DT20706</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11894">
     <vendorCode>DT20707</vendorCode>
@@ -11898,7 +11958,7 @@
   <offer id="11691">
     <vendorCode>DT3113XM</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11692">
     <vendorCode>DT3113XM_25_1</vendorCode>
@@ -13753,7 +13813,7 @@
   <offer id="20434">
     <vendorCode>BXRA1500E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20435">
     <vendorCode>BXRA2000E</vendorCode>
@@ -15178,7 +15238,7 @@
   <offer id="19951">
     <vendorCode>D200/10/24V</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19947">
     <vendorCode>D200/8/24</vendorCode>
@@ -16953,7 +17013,7 @@
   <offer id="10904">
     <vendorCode>0-28-206</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11087">
     <vendorCode>0-28-217</vendorCode>
@@ -18458,7 +18518,7 @@
   <offer id="13191">
     <vendorCode>STA54072</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13224">
     <vendorCode>STA54122</vendorCode>
@@ -21623,7 +21683,7 @@
   <offer id="19998">
     <vendorCode>150026XSTN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19997">
     <vendorCode>150036XSTN</vendorCode>
@@ -22762,11 +22822,6 @@
   </offer>
   <offer id="19449">
     <vendorCode>SFMCB206</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="16964">
-    <vendorCode>FMC710D2</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
