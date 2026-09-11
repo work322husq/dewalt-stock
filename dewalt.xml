@@ -5803,7 +5803,7 @@
   <offer id="11321">
     <vendorCode>DT4505</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11322">
     <vendorCode>DT4506</vendorCode>
@@ -11253,7 +11253,7 @@
   <offer id="18393">
     <vendorCode>DT20436</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18394">
     <vendorCode>DT20437</vendorCode>
@@ -12093,12 +12093,12 @@
   <offer id="20403">
     <vendorCode>DT3605</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20404">
     <vendorCode>DT3606</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20405">
     <vendorCode>DT3607</vendorCode>
