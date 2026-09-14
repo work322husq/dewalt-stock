@@ -28,7 +28,7 @@
   <offer id="21023">
     <vendorCode>DCB183_N314783</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14826">
     <vendorCode>DCB184</vendorCode>
@@ -2928,7 +2928,7 @@
   <offer id="11207">
     <vendorCode>DT9569</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11208">
     <vendorCode>DT9570</vendorCode>
@@ -3033,7 +3033,7 @@
   <offer id="14694">
     <vendorCode>DT9597</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11223">
     <vendorCode>DT9598</vendorCode>
@@ -3098,7 +3098,7 @@
   <offer id="11234">
     <vendorCode>DT9616</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15549">
     <vendorCode>DT9617</vendorCode>
@@ -3258,7 +3258,7 @@
   <offer id="14039">
     <vendorCode>DT9658</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14040">
     <vendorCode>DT9659</vendorCode>
@@ -3278,7 +3278,7 @@
   <offer id="14708">
     <vendorCode>DT9662</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14041">
     <vendorCode>DT9663</vendorCode>
@@ -4038,7 +4038,7 @@
   <offer id="16444">
     <vendorCode>DCF801D2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16445">
     <vendorCode>DCF801N</vendorCode>
@@ -4683,7 +4683,7 @@
   <offer id="17236">
     <vendorCode>DT1934</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17237">
     <vendorCode>DT1935</vendorCode>
@@ -6543,7 +6543,7 @@
   <offer id="11372">
     <vendorCode>DT5047</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11373">
     <vendorCode>DT5048</vendorCode>
@@ -8203,7 +8203,7 @@
   <offer id="16018">
     <vendorCode>DCN8901045</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16019">
     <vendorCode>DCN8901050</vendorCode>
@@ -8843,7 +8843,7 @@
   <offer id="17752">
     <vendorCode>DCK856P4</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17751">
     <vendorCode>DCK865P4T</vendorCode>
@@ -9113,7 +9113,7 @@
   <offer id="21457">
     <vendorCode>DCMCST635X1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20045">
     <vendorCode>DCMPS520N</vendorCode>
@@ -10238,7 +10238,7 @@
   <offer id="17174">
     <vendorCode>DWST83395-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17179">
     <vendorCode>DWST83401-1</vendorCode>
@@ -10368,7 +10368,7 @@
   <offer id="17903">
     <vendorCode>DT7465</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17904">
     <vendorCode>DT7466</vendorCode>
@@ -16288,7 +16288,7 @@
   <offer id="18332">
     <vendorCode>FMHT10594-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12891">
     <vendorCode>STHT0-10193</vendorCode>
@@ -17518,7 +17518,7 @@
   <offer id="18547">
     <vendorCode>0-42-065</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18327">
     <vendorCode>0-42-072</vendorCode>
@@ -21798,7 +21798,7 @@
   <offer id="20017">
     <vendorCode>170020XSTN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20016">
     <vendorCode>8221577STN</vendorCode>
