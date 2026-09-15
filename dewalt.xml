@@ -4128,7 +4128,7 @@
   <offer id="20412">
     <vendorCode>DCF860NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22233">
     <vendorCode>DCF86MM2T</vendorCode>
@@ -9588,7 +9588,7 @@
   <offer id="20785">
     <vendorCode>DWF50091-126-9</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20778">
     <vendorCode>DWF50093-132-10</vendorCode>
@@ -11049,6 +11049,11 @@
     <vendorCode>DWV9350</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="22609">
+    <vendorCode>DWV9390</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11959">
     <vendorCode>DWV9401</vendorCode>
