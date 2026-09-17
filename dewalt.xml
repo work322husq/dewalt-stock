@@ -17990,6 +17990,11 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="22618">
+    <vendorCode>STHT47312-0</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="8755">
     <vendorCode>1-13-901</vendorCode>
     <price>1</price>
