@@ -1633,7 +1633,7 @@
   <offer id="16868">
     <vendorCode>DCMPH566P1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14192">
     <vendorCode>DCE0811D1G</vendorCode>
@@ -4018,7 +4018,7 @@
   <offer id="22582">
     <vendorCode>DCF620E1K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
@@ -6648,7 +6648,7 @@
   <offer id="11407">
     <vendorCode>DT5537</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11408">
     <vendorCode>DT5537_1</vendorCode>
@@ -10183,7 +10183,7 @@
   <offer id="16860">
     <vendorCode>DWST82991-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17175">
     <vendorCode>DWST83293-1</vendorCode>
