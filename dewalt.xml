@@ -18085,11 +18085,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="15644">
-    <vendorCode>STA60490</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="12988">
     <vendorCode>STA61020</vendorCode>
     <price>1</price>
@@ -18199,11 +18194,6 @@
     <vendorCode>STA88566</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="17315">
-    <vendorCode>STA88567</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17316">
     <vendorCode>STA88568</vendorCode>
@@ -21305,20 +21295,10 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="15641">
-    <vendorCode>STA80300</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
-  </offer>
   <offer id="15742">
     <vendorCode>STA80301</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="15743">
-    <vendorCode>STA80302</vendorCode>
-    <price>1</price>
-    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15744">
     <vendorCode>STA80303</vendorCode>
