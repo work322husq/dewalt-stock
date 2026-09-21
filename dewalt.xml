@@ -223,7 +223,7 @@
   <offer id="21309">
     <vendorCode>DXCMS2550HE</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21310">
     <vendorCode>DXCMS2550VE</vendorCode>
@@ -2418,7 +2418,7 @@
   <offer id="17147">
     <vendorCode>DT60829</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17148">
     <vendorCode>DT60830</vendorCode>
@@ -6758,7 +6758,7 @@
   <offer id="11429">
     <vendorCode>DT5548</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11430">
     <vendorCode>DT5548_1</vendorCode>
@@ -8133,7 +8133,7 @@
   <offer id="17115">
     <vendorCode>DT90294</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15673">
     <vendorCode>DT7505</vendorCode>
@@ -8568,7 +8568,7 @@
   <offer id="17794">
     <vendorCode>DNR3132HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17816">
     <vendorCode>DNR3138HDZ</vendorCode>
@@ -22320,11 +22320,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="16614">
-    <vendorCode>FMST1-75769</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="16610">
     <vendorCode>FMST1-75779</vendorCode>
     <price>1</price>
@@ -22653,7 +22648,7 @@
   <offer id="20749">
     <vendorCode>SXWT-HT526</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20748">
     <vendorCode>SXWT-HT535</vendorCode>
