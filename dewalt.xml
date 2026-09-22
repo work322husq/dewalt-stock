@@ -1043,7 +1043,7 @@
   <offer id="19645">
     <vendorCode>DWHT51006-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19649">
     <vendorCode>DWHT51008-0</vendorCode>
@@ -7858,7 +7858,7 @@
   <offer id="19639">
     <vendorCode>DWHT0-11131</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19637">
     <vendorCode>DWHT11004-2</vendorCode>
@@ -9298,7 +9298,7 @@
   <offer id="19787">
     <vendorCode>DPG33L</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19796">
     <vendorCode>DPG35L</vendorCode>
@@ -19668,7 +19668,7 @@
   <offer id="10723">
     <vendorCode>STHT0-11825</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16623">
     <vendorCode>STHT0-16131</vendorCode>
