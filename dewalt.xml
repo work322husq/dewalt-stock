@@ -213,7 +213,7 @@
   <offer id="21073">
     <vendorCode>DXCMS15RE</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="21308">
     <vendorCode>DXCMS2524HE</vendorCode>
@@ -4473,7 +4473,7 @@
   <offer id="13715">
     <vendorCode>DWE492</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="15444">
     <vendorCode>DWE492S</vendorCode>
@@ -7663,7 +7663,7 @@
   <offer id="15406">
     <vendorCode>DCN890N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="15407">
     <vendorCode>DCN890P2</vendorCode>
@@ -9153,7 +9153,7 @@
   <offer id="19558">
     <vendorCode>DCF403NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="19562">
     <vendorCode>DCF414E2GT</vendorCode>
