@@ -5383,7 +5383,7 @@
   <offer id="17851">
     <vendorCode>DT90323</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17852">
     <vendorCode>DT90324</vendorCode>
@@ -8063,7 +8063,7 @@
   <offer id="19134">
     <vendorCode>DT20590</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19133">
     <vendorCode>DT20591</vendorCode>
@@ -21788,7 +21788,7 @@
   <offer id="20019">
     <vendorCode>166018XSTN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20017">
     <vendorCode>170020XSTN</vendorCode>
@@ -22818,7 +22818,7 @@
   <offer id="19449">
     <vendorCode>SFMCB206</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16965">
     <vendorCode>FME650K</vendorCode>
