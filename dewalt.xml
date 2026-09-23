@@ -1933,7 +1933,7 @@
   <offer id="16107">
     <vendorCode>DT70739T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17381">
     <vendorCode>DT70740T</vendorCode>
@@ -3673,7 +3673,7 @@
   <offer id="15428">
     <vendorCode>DCS570P2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16960">
     <vendorCode>DCS571N</vendorCode>
@@ -4853,7 +4853,7 @@
   <offer id="11654">
     <vendorCode>DT4087</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11655">
     <vendorCode>DT4092</vendorCode>
@@ -11023,7 +11023,7 @@
   <offer id="11993">
     <vendorCode>DWS5031</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15099">
     <vendorCode>DWV9000</vendorCode>
@@ -11533,7 +11533,7 @@
   <offer id="21541">
     <vendorCode>DT2323</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21542">
     <vendorCode>DT2323_1</vendorCode>
@@ -11613,7 +11613,7 @@
   <offer id="21543">
     <vendorCode>DT2400</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21544">
     <vendorCode>DT2400_1</vendorCode>
@@ -20140,11 +20140,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="15715">
-    <vendorCode>FMHT0-62647</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="16672">
     <vendorCode>FMHT0-62688</vendorCode>
     <price>1</price>
@@ -20688,7 +20683,7 @@
   <offer id="18454">
     <vendorCode>FMHT0-75408</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18447">
     <vendorCode>FMHT0-75467</vendorCode>
