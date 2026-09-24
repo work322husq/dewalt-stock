@@ -460,11 +460,6 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
-  <offer id="8655">
-    <vendorCode>DW294</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="8886">
     <vendorCode>D27300</vendorCode>
     <price>1</price>
@@ -2578,7 +2573,7 @@
   <offer id="16164">
     <vendorCode>DT8924</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16165">
     <vendorCode>DT8925</vendorCode>
@@ -8223,7 +8218,7 @@
   <offer id="16017">
     <vendorCode>DCN8901040</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16018">
     <vendorCode>DCN8901045</vendorCode>
@@ -8568,7 +8563,7 @@
   <offer id="17793">
     <vendorCode>DNR3122HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17791">
     <vendorCode>DNR3125GZ</vendorCode>
@@ -9098,7 +9093,7 @@
   <offer id="15586">
     <vendorCode>DCM565P1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21145">
     <vendorCode>DCMCS565N</vendorCode>
@@ -10073,7 +10068,7 @@
   <offer id="19586">
     <vendorCode>DWST40603-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19587">
     <vendorCode>DWST40901-1</vendorCode>
@@ -10173,7 +10168,7 @@
   <offer id="20941">
     <vendorCode>DWST82823-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16859">
     <vendorCode>DWST82968-1</vendorCode>
@@ -11548,7 +11543,7 @@
   <offer id="21542">
     <vendorCode>DT2323_1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17246">
     <vendorCode>DT2333</vendorCode>
@@ -13058,12 +13053,12 @@
   <offer id="15467">
     <vendorCode>KA900E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17979">
     <vendorCode>KA902EK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15357">
     <vendorCode>BDCROS18</vendorCode>
@@ -14253,7 +14248,7 @@
   <offer id="14097">
     <vendorCode>1221300E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14098">
     <vendorCode>1221500E</vendorCode>
@@ -16318,7 +16313,7 @@
   <offer id="18332">
     <vendorCode>FMHT10594-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12891">
     <vendorCode>STHT0-10193</vendorCode>
@@ -16743,7 +16738,7 @@
   <offer id="18478">
     <vendorCode>STHT0-62146</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18471">
     <vendorCode>STHT0-62151</vendorCode>
@@ -17058,7 +17053,7 @@
   <offer id="9838">
     <vendorCode>0-28-590</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10903">
     <vendorCode>0-28-616</vendorCode>
@@ -19638,7 +19633,7 @@
   <offer id="9705">
     <vendorCode>1-11-300</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10635">
     <vendorCode>1-11-916</vendorCode>
@@ -21978,7 +21973,7 @@
   <offer id="20704">
     <vendorCode>90010</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20705">
     <vendorCode>90301</vendorCode>
