@@ -823,7 +823,7 @@
   <offer id="8681">
     <vendorCode>D21441</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10592">
     <vendorCode>D21570K</vendorCode>
@@ -1908,7 +1908,7 @@
   <offer id="16115">
     <vendorCode>DT70705</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17217">
     <vendorCode>DT70707</vendorCode>
@@ -3673,7 +3673,7 @@
   <offer id="15428">
     <vendorCode>DCS570P2</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16960">
     <vendorCode>DCS571N</vendorCode>
@@ -5413,7 +5413,7 @@
   <offer id="17856">
     <vendorCode>DT90328</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17857">
     <vendorCode>DT90329</vendorCode>
@@ -8138,7 +8138,7 @@
   <offer id="17115">
     <vendorCode>DT90294</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15673">
     <vendorCode>DT7505</vendorCode>
@@ -10388,7 +10388,7 @@
   <offer id="17903">
     <vendorCode>DT7465</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17904">
     <vendorCode>DT7466</vendorCode>
@@ -16328,7 +16328,7 @@
   <offer id="14255">
     <vendorCode>STHT0-62687</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20341">
     <vendorCode>STHT10018-9</vendorCode>
@@ -19683,7 +19683,7 @@
   <offer id="10723">
     <vendorCode>STHT0-11825</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16623">
     <vendorCode>STHT0-16131</vendorCode>
@@ -21908,7 +21908,7 @@
   <offer id="20702">
     <vendorCode>90371</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20394">
     <vendorCode>F01.1.022</vendorCode>
