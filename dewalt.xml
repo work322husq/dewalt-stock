@@ -1278,7 +1278,7 @@
   <offer id="19828">
     <vendorCode>DXV20PTA</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20516">
     <vendorCode>DXV234P</vendorCode>
@@ -8868,7 +8868,7 @@
   <offer id="17751">
     <vendorCode>DCK865P4T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15423">
     <vendorCode>DCS350N</vendorCode>
@@ -13718,7 +13718,7 @@
   <offer id="20222">
     <vendorCode>BXAF6500E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20221">
     <vendorCode>BXAF9000E</vendorCode>
@@ -18538,7 +18538,7 @@
   <offer id="13227">
     <vendorCode>STA54207</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13197">
     <vendorCode>STA54232</vendorCode>
