@@ -6823,7 +6823,7 @@
   <offer id="11441">
     <vendorCode>DT5554</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11442">
     <vendorCode>DT5554_1</vendorCode>
@@ -8318,7 +8318,7 @@
   <offer id="15021">
     <vendorCode>DNBA1663GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18031">
     <vendorCode>DNBA1663SZ</vendorCode>
@@ -17668,7 +17668,7 @@
   <offer id="10365">
     <vendorCode>1-43-558</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16370">
     <vendorCode>FMHT42553-1</vendorCode>
@@ -17713,7 +17713,7 @@
   <offer id="10366">
     <vendorCode>STHT1-43109</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10741">
     <vendorCode>STHT1-43110</vendorCode>
@@ -20143,7 +20143,7 @@
   <offer id="16672">
     <vendorCode>FMHT0-62688</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14298">
     <vendorCode>FMHT0-62689</vendorCode>
@@ -21312,11 +21312,6 @@
   </offer>
   <offer id="15642">
     <vendorCode>STA80313</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="21150">
-    <vendorCode>STA80314</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -22493,7 +22488,7 @@
   <offer id="16367">
     <vendorCode>STST81337-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16410">
     <vendorCode>STST81679-1</vendorCode>
