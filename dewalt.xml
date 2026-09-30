@@ -2943,7 +2943,7 @@
   <offer id="11209">
     <vendorCode>DT9571</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11210">
     <vendorCode>DT9572</vendorCode>
@@ -8323,7 +8323,7 @@
   <offer id="15021">
     <vendorCode>DNBA1663GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18031">
     <vendorCode>DNBA1663SZ</vendorCode>
@@ -11353,7 +11353,7 @@
   <offer id="11891">
     <vendorCode>DT20704</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11892">
     <vendorCode>DT20705</vendorCode>
