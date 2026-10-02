@@ -20698,7 +20698,7 @@
   <offer id="16612">
     <vendorCode>FMST82967-1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10830">
     <vendorCode>0-84-000</vendorCode>
@@ -22073,7 +22073,7 @@
   <offer id="10061">
     <vendorCode>1-93-950</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10062">
     <vendorCode>1-93-951</vendorCode>
@@ -22083,7 +22083,7 @@
   <offer id="18541">
     <vendorCode>1-93-952</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10645">
     <vendorCode>1-93-968</vendorCode>
@@ -22368,7 +22368,7 @@
   <offer id="22610">
     <vendorCode>STST1-70355</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="10965">
     <vendorCode>STST1-70712</vendorCode>
@@ -22483,7 +22483,7 @@
   <offer id="16367">
     <vendorCode>STST81337-1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16410">
     <vendorCode>STST81679-1</vendorCode>
