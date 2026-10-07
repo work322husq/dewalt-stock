@@ -593,7 +593,7 @@
   <offer id="16669">
     <vendorCode>DCD777D2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16439">
     <vendorCode>DCD777M2T</vendorCode>
@@ -14613,7 +14613,7 @@
   <offer id="12593">
     <vendorCode>CR2DGAL</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12594">
     <vendorCode>CR3DGAL</vendorCode>
@@ -19558,7 +19558,7 @@
   <offer id="9696">
     <vendorCode>0-11-411</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9697">
     <vendorCode>0-11-800</vendorCode>
