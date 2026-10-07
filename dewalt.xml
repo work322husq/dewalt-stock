@@ -38,7 +38,7 @@
   <offer id="21024">
     <vendorCode>DCB184_N394624</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>1</stock_quantity>
   </offer>
   <offer id="18995">
     <vendorCode>DCB184G</vendorCode>
@@ -528,7 +528,7 @@
   <offer id="16670">
     <vendorCode>DCD708D2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>1</stock_quantity>
   </offer>
   <offer id="17738">
     <vendorCode>DCD708N</vendorCode>
@@ -573,7 +573,7 @@
   <offer id="11050">
     <vendorCode>DCD710D2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15414">
     <vendorCode>DCD740N</vendorCode>
@@ -1508,7 +1508,7 @@
   <offer id="10132">
     <vendorCode>DCL510N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>1</stock_quantity>
   </offer>
   <offer id="20063">
     <vendorCode>DWST08061-1</vendorCode>
@@ -2933,7 +2933,7 @@
   <offer id="11206">
     <vendorCode>DT9568</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11207">
     <vendorCode>DT9569</vendorCode>
@@ -4393,7 +4393,7 @@
   <offer id="19594">
     <vendorCode>DCG460NK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19595">
     <vendorCode>DCG460X2</vendorCode>
@@ -11873,7 +11873,7 @@
   <offer id="21460">
     <vendorCode>DT20692</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20048">
     <vendorCode>DT20693</vendorCode>
@@ -16713,7 +16713,7 @@
   <offer id="10991">
     <vendorCode>STHT0-62143</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18478">
     <vendorCode>STHT0-62146</vendorCode>
@@ -17983,7 +17983,7 @@
   <offer id="9074">
     <vendorCode>0-47-496</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11002">
     <vendorCode>STHT0-47244</vendorCode>
@@ -20668,7 +20668,7 @@
   <offer id="18454">
     <vendorCode>FMHT0-75408</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18447">
     <vendorCode>FMHT0-75467</vendorCode>
