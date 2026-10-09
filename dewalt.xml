@@ -4673,7 +4673,7 @@
   <offer id="14009">
     <vendorCode>DT1926</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14395">
     <vendorCode>DT1927</vendorCode>
@@ -9308,7 +9308,7 @@
   <offer id="19788">
     <vendorCode>DPG41L</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19799">
     <vendorCode>DPG66L</vendorCode>
@@ -10643,7 +10643,7 @@
   <offer id="11922">
     <vendorCode>DE0734</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11923">
     <vendorCode>DE0735</vendorCode>
