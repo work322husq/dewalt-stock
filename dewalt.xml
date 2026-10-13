@@ -2943,7 +2943,7 @@
   <offer id="11208">
     <vendorCode>DT9570</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11209">
     <vendorCode>DT9571</vendorCode>
@@ -4078,7 +4078,7 @@
   <offer id="19127">
     <vendorCode>DCF840NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18353">
     <vendorCode>DCF850D2T</vendorCode>
@@ -11548,7 +11548,7 @@
   <offer id="11749">
     <vendorCode>DT2346</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11750">
     <vendorCode>DT2348</vendorCode>
@@ -12133,7 +12133,7 @@
   <offer id="11733">
     <vendorCode>DTM3093</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11734">
     <vendorCode>DTM3095</vendorCode>
