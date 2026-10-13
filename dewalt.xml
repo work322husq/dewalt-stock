@@ -9093,7 +9093,7 @@
   <offer id="21145">
     <vendorCode>DCMCS565N</vendorCode>
     <price>1</price>
-    <stock_quantity>1</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21472">
     <vendorCode>DCMCS565P1</vendorCode>
@@ -9103,7 +9103,7 @@
   <offer id="19001">
     <vendorCode>DCMCS574N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>5</stock_quantity>
   </offer>
   <offer id="19002">
     <vendorCode>DCMCS574X1</vendorCode>
@@ -9123,7 +9123,7 @@
   <offer id="21456">
     <vendorCode>DCMCST635N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>5</stock_quantity>
   </offer>
   <offer id="21457">
     <vendorCode>DCMCST635X1</vendorCode>
@@ -23447,6 +23447,16 @@
   </offer>
   <offer id="DCB1102">
     <vendorCode>DCB1102</vendorCode>
+    <price>1</price>
+    <stock_quantity>5</stock_quantity>
+  </offer>
+  <offer id="DCD708NT">
+    <vendorCode>DCD708NT</vendorCode>
+    <price>1</price>
+    <stock_quantity>5</stock_quantity>
+  </offer>
+  <offer id="DCF899NT">
+    <vendorCode>DCF899NT</vendorCode>
     <price>1</price>
     <stock_quantity>5</stock_quantity>
   </offer>
