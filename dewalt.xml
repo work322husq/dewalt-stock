@@ -323,7 +323,7 @@
   <offer id="15145">
     <vendorCode>DCF899N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19114">
     <vendorCode>DCF900N</vendorCode>
@@ -2113,7 +2113,7 @@
   <offer id="20484">
     <vendorCode>DT71563</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14198">
     <vendorCode>DT71570</vendorCode>
@@ -3078,7 +3078,7 @@
   <offer id="11228">
     <vendorCode>DT9604</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15548">
     <vendorCode>DT9606</vendorCode>
@@ -9808,7 +9808,7 @@
   <offer id="22431">
     <vendorCode>DXFWMC50339-126-09</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22432">
     <vendorCode>DXFWMC50339-126-10</vendorCode>
