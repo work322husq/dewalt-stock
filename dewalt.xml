@@ -2993,7 +2993,7 @@
   <offer id="11215">
     <vendorCode>DT9581</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11216">
     <vendorCode>DT9582</vendorCode>
@@ -9353,7 +9353,7 @@
   <offer id="19794">
     <vendorCode>DPG860L</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19769">
     <vendorCode>DPG12BG50</vendorCode>
@@ -11008,7 +11008,7 @@
   <offer id="16193">
     <vendorCode>DWS5025</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11989">
     <vendorCode>DWS5026</vendorCode>
@@ -12138,7 +12138,7 @@
   <offer id="11733">
     <vendorCode>DTM3093</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11734">
     <vendorCode>DTM3095</vendorCode>
