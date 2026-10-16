@@ -523,7 +523,7 @@
   <offer id="19553">
     <vendorCode>DCD708D1T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="16670">
     <vendorCode>DCD708D2T</vendorCode>
@@ -628,7 +628,7 @@
   <offer id="21210">
     <vendorCode>DCD794P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="15543">
     <vendorCode>DCD796D2</vendorCode>
@@ -648,7 +648,7 @@
   <offer id="21206">
     <vendorCode>DCD799D2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="21207">
     <vendorCode>DCD799N</vendorCode>
@@ -658,7 +658,7 @@
   <offer id="21204">
     <vendorCode>DCD799NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="21205">
     <vendorCode>DCD799P2T</vendorCode>
@@ -713,7 +713,7 @@
   <offer id="22576">
     <vendorCode>DCD803NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="22577">
     <vendorCode>DCD803P2T</vendorCode>
@@ -748,7 +748,7 @@
   <offer id="18949">
     <vendorCode>DCD805P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="21082">
     <vendorCode>DCD805S2T</vendorCode>
@@ -3558,7 +3558,7 @@
   <offer id="16479">
     <vendorCode>D28730</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="8844">
     <vendorCode>DW872</vendorCode>
@@ -4033,7 +4033,7 @@
   <offer id="22582">
     <vendorCode>DCF620E1K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
@@ -4183,7 +4183,7 @@
   <offer id="14844">
     <vendorCode>DCF887N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="14221">
     <vendorCode>DCF887P2</vendorCode>
@@ -9098,7 +9098,7 @@
   <offer id="21145">
     <vendorCode>DCMCS565N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="21472">
     <vendorCode>DCMCS565P1</vendorCode>
@@ -23449,6 +23449,11 @@
     <vendorCode>DCD708NT</vendorCode>
     <price>1</price>
     <stock_quantity>5</stock_quantity>
+  </offer>
+  <offer id="DCF877P2">
+    <vendorCode>DCF877P2</vendorCode>
+    <price>1</price>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="DCF899NT">
     <vendorCode>DCF899NT</vendorCode>
