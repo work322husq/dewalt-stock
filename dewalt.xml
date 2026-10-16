@@ -2088,7 +2088,7 @@
   <offer id="21677">
     <vendorCode>DT70909T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14214">
     <vendorCode>DT71502</vendorCode>
@@ -3683,7 +3683,7 @@
   <offer id="15373">
     <vendorCode>DCS570NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15428">
     <vendorCode>DCS570P2</vendorCode>
@@ -10188,7 +10188,7 @@
   <offer id="16860">
     <vendorCode>DWST82991-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17175">
     <vendorCode>DWST83293-1</vendorCode>
@@ -10258,7 +10258,7 @@
   <offer id="17174">
     <vendorCode>DWST83395-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17179">
     <vendorCode>DWST83401-1</vendorCode>
@@ -20968,7 +20968,7 @@
   <offer id="10737">
     <vendorCode>1-GS20DT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10599">
     <vendorCode>STHT1-70429</vendorCode>
