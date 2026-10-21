@@ -2523,7 +2523,7 @@
   <offer id="19149">
     <vendorCode>DT70837</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19150">
     <vendorCode>DT70838</vendorCode>
@@ -2788,7 +2788,7 @@
   <offer id="11181">
     <vendorCode>DT9530</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11182">
     <vendorCode>DT9531</vendorCode>
@@ -2928,7 +2928,7 @@
   <offer id="11205">
     <vendorCode>DT9567</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11206">
     <vendorCode>DT9568</vendorCode>
@@ -4173,7 +4173,7 @@
   <offer id="20474">
     <vendorCode>DCF870NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14844">
     <vendorCode>DCF887N</vendorCode>
@@ -4668,7 +4668,7 @@
   <offer id="15378">
     <vendorCode>DT1923</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14009">
     <vendorCode>DT1926</vendorCode>
@@ -8488,7 +8488,7 @@
   <offer id="17617">
     <vendorCode>DNPT28R63G12Z</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18016">
     <vendorCode>DNPT28R63HDZ</vendorCode>
@@ -10813,7 +10813,7 @@
   <offer id="12096">
     <vendorCode>DT3568</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12142">
     <vendorCode>DT3611XM</vendorCode>
@@ -12488,7 +12488,7 @@
   <offer id="15840">
     <vendorCode>BDCCF12N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19178">
     <vendorCode>BDCCF18N</vendorCode>
@@ -13645,6 +13645,11 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="20594">
+    <vendorCode>BXHBA1501E</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="20441">
     <vendorCode>BXHBA600E</vendorCode>
     <price>1</price>
@@ -13700,6 +13705,11 @@
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="22484">
+    <vendorCode>BXAF2501E</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="20220">
     <vendorCode>BXAF5000E</vendorCode>
     <price>1</price>
@@ -13709,6 +13719,11 @@
     <vendorCode>BXAF6500E</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="22483">
+    <vendorCode>BXAF8001E</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20221">
     <vendorCode>BXAF9000E</vendorCode>
@@ -13962,6 +13977,11 @@
   </offer>
   <offer id="21418">
     <vendorCode>ES0480500B</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="22486">
+    <vendorCode>BXFC1000E</vendorCode>
     <price>1</price>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -16908,7 +16928,7 @@
   <offer id="18486">
     <vendorCode>0-22-499</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18492">
     <vendorCode>0-22-501</vendorCode>
@@ -17863,7 +17883,7 @@
   <offer id="20377">
     <vendorCode>FMHT81745-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20114">
     <vendorCode>STHT37230-0</vendorCode>
@@ -21977,11 +21997,6 @@
   </offer>
   <offer id="9984">
     <vendorCode>1-92-066</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="13035">
-    <vendorCode>1-92-067</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
