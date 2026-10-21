@@ -6473,7 +6473,7 @@
   <offer id="15215">
     <vendorCode>DT5026</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15100">
     <vendorCode>DT5027</vendorCode>
@@ -8208,7 +8208,7 @@
   <offer id="16014">
     <vendorCode>DCN8901025</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16015">
     <vendorCode>DCN8901030</vendorCode>
@@ -22578,7 +22578,7 @@
   <offer id="20608">
     <vendorCode>SXWT-FT584</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20607">
     <vendorCode>SXWT-FT585</vendorCode>
