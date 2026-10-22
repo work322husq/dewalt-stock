@@ -1513,7 +1513,7 @@
   <offer id="20063">
     <vendorCode>DWST08061-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19619">
     <vendorCode>DWHT0-58018</vendorCode>
@@ -11643,7 +11643,7 @@
   <offer id="11742">
     <vendorCode>DT2974</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16577">
     <vendorCode>DT2975</vendorCode>
@@ -22678,7 +22678,7 @@
   <offer id="20748">
     <vendorCode>SXWT-HT535</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20604">
     <vendorCode>SXWT-PC527</vendorCode>
