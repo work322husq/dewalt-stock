@@ -48,7 +48,7 @@
   <offer id="19301">
     <vendorCode>DCB184P2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19302">
     <vendorCode>DCB184P3</vendorCode>
@@ -473,7 +473,7 @@
   <offer id="20463">
     <vendorCode>DCD1007NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20465">
     <vendorCode>DCD1007WW1T</vendorCode>
@@ -1278,7 +1278,7 @@
   <offer id="19828">
     <vendorCode>DXV20PTA</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20516">
     <vendorCode>DXV234P</vendorCode>
@@ -1513,7 +1513,7 @@
   <offer id="20063">
     <vendorCode>DWST08061-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19619">
     <vendorCode>DWHT0-58018</vendorCode>
@@ -2748,7 +2748,7 @@
   <offer id="14376">
     <vendorCode>DT9518</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17920">
     <vendorCode>DT9520</vendorCode>
@@ -3093,7 +3093,7 @@
   <offer id="11231">
     <vendorCode>DT9610</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11232">
     <vendorCode>DT9612</vendorCode>
@@ -3338,7 +3338,7 @@
   <offer id="16003">
     <vendorCode>DCS491NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20067">
     <vendorCode>DCS496N</vendorCode>
@@ -3418,7 +3418,7 @@
   <offer id="15426">
     <vendorCode>DCH273NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21212">
     <vendorCode>DCH273P2T</vendorCode>
@@ -3818,7 +3818,7 @@
   <offer id="15432">
     <vendorCode>DCS367NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15433">
     <vendorCode>DCS367P2</vendorCode>
@@ -4033,7 +4033,7 @@
   <offer id="16915">
     <vendorCode>DCF620N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15422">
     <vendorCode>DCF620P2K</vendorCode>
@@ -4183,7 +4183,7 @@
   <offer id="14221">
     <vendorCode>DCF887P2</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>5</stock_quantity>
   </offer>
   <offer id="16952">
     <vendorCode>DCM848N</vendorCode>
@@ -4458,7 +4458,7 @@
   <offer id="16098">
     <vendorCode>DWE4357</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16101">
     <vendorCode>DWE4369</vendorCode>
@@ -6248,7 +6248,7 @@
   <offer id="14657">
     <vendorCode>DT4916</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14658">
     <vendorCode>DT4917</vendorCode>
@@ -6418,7 +6418,7 @@
   <offer id="17388">
     <vendorCode>DT4956</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16077">
     <vendorCode>DT4957</vendorCode>
@@ -7323,7 +7323,7 @@
   <offer id="11282">
     <vendorCode>DT6803</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11283">
     <vendorCode>DT6804</vendorCode>
@@ -8293,7 +8293,7 @@
   <offer id="15018">
     <vendorCode>DNBA1638GZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18028">
     <vendorCode>DNBA1638SZ</vendorCode>
@@ -8963,7 +8963,7 @@
   <offer id="19309">
     <vendorCode>DCS691N</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19310">
     <vendorCode>DCS691X2</vendorCode>
@@ -9823,17 +9823,17 @@
   <offer id="20765">
     <vendorCode>DWC263-001-L</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20764">
     <vendorCode>DWC263-001-M</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20766">
     <vendorCode>DWC263-001-XL</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20767">
     <vendorCode>DWC263-001-XXL</vendorCode>
@@ -10013,7 +10013,7 @@
   <offer id="14239">
     <vendorCode>DWST1-71196</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15846">
     <vendorCode>DWST1-71228</vendorCode>
@@ -11243,7 +11243,7 @@
   <offer id="21216">
     <vendorCode>DCMPP569P1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17069">
     <vendorCode>DCMPS567N</vendorCode>
@@ -11383,7 +11383,7 @@
   <offer id="11900">
     <vendorCode>DT20713</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11904">
     <vendorCode>DT20717</vendorCode>
@@ -13558,7 +13558,7 @@
   <offer id="20249">
     <vendorCode>BXIR2402E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20246">
     <vendorCode>BXIR2606E</vendorCode>
@@ -13568,7 +13568,7 @@
   <offer id="20248">
     <vendorCode>BXIR2801E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20247">
     <vendorCode>BXIR2805E</vendorCode>
@@ -13593,12 +13593,12 @@
   <offer id="22692">
     <vendorCode>BXSS2600E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22693">
     <vendorCode>BXSS2800E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20241">
     <vendorCode>BXTO820E</vendorCode>
@@ -13623,7 +13623,7 @@
   <offer id="20239">
     <vendorCode>BXJB800E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20237">
     <vendorCode>BXJBA350E</vendorCode>
@@ -13648,17 +13648,17 @@
   <offer id="20228">
     <vendorCode>BXHBA1200E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20440">
     <vendorCode>BXHBA1500E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20594">
     <vendorCode>BXHBA1501E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20441">
     <vendorCode>BXHBA600E</vendorCode>
@@ -13683,7 +13683,7 @@
   <offer id="22691">
     <vendorCode>BXJE4800E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20233">
     <vendorCode>BXJE600E</vendorCode>
@@ -13698,7 +13698,7 @@
   <offer id="20583">
     <vendorCode>BXVML701E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20582">
     <vendorCode>BXVMS601E</vendorCode>
@@ -13708,17 +13708,17 @@
   <offer id="22690">
     <vendorCode>BXVMS602E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20225">
     <vendorCode>BXPC1100E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22688">
     <vendorCode>BXAC50E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20224">
     <vendorCode>BXAP350E</vendorCode>
@@ -13728,32 +13728,32 @@
   <offer id="20223">
     <vendorCode>BXAP60E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22685">
     <vendorCode>BXEFP50E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22686">
     <vendorCode>BXEFT47E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22687">
     <vendorCode>BXEFT48E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22689">
     <vendorCode>BXMF75E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22484">
     <vendorCode>BXAF2501E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20220">
     <vendorCode>BXAF5000E</vendorCode>
@@ -13768,12 +13768,12 @@
   <offer id="22483">
     <vendorCode>BXAF8001E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20221">
     <vendorCode>BXAF9000E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20219">
     <vendorCode>BXLR500E</vendorCode>
@@ -13783,7 +13783,7 @@
   <offer id="20217">
     <vendorCode>BXFPA1200E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20215">
     <vendorCode>BXCG150E</vendorCode>
@@ -13803,7 +13803,7 @@
   <offer id="21346">
     <vendorCode>BXCO1002E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20212">
     <vendorCode>BXCO600E</vendorCode>
@@ -13843,7 +13843,7 @@
   <offer id="20208">
     <vendorCode>BXGD2200E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21419">
     <vendorCode>BXGR1001E</vendorCode>
@@ -13853,12 +13853,12 @@
   <offer id="20206">
     <vendorCode>BXGR2000E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20205">
     <vendorCode>BXMX500E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20203">
     <vendorCode>BXSA753E</vendorCode>
@@ -13873,22 +13873,22 @@
   <offer id="20437">
     <vendorCode>BXMRA1500E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20434">
     <vendorCode>BXRA1500E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20435">
     <vendorCode>BXRA2000E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20436">
     <vendorCode>BXRA2300E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20431">
     <vendorCode>BXCSH1200E</vendorCode>
@@ -13908,37 +13908,37 @@
   <offer id="20433">
     <vendorCode>BXCSH2001E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20445">
     <vendorCode>BXFSH2000E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20443">
     <vendorCode>BXSH1505E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20446">
     <vendorCode>BXSH2001E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20442">
     <vendorCode>BXSH2002E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20444">
     <vendorCode>BXSH2003E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20439">
     <vendorCode>BXMMA1000E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15323">
     <vendorCode>CSCA3</vendorCode>
@@ -14028,22 +14028,22 @@
   <offer id="22694">
     <vendorCode>BXFC3200E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22695">
     <vendorCode>BXDE401E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22486">
     <vendorCode>BXFC1000E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22696">
     <vendorCode>BXKS4800E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="17233">
     <vendorCode>BRT130-E</vendorCode>
@@ -20743,7 +20743,7 @@
   <offer id="10832">
     <vendorCode>0-84-002</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="10833">
     <vendorCode>0-84-006</vendorCode>
