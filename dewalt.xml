@@ -473,7 +473,7 @@
   <offer id="20463">
     <vendorCode>DCD1007NT</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20465">
     <vendorCode>DCD1007WW1T</vendorCode>
@@ -1678,7 +1678,7 @@
   <offer id="17800">
     <vendorCode>DCE089NG18</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20728">
     <vendorCode>DCLE14201GB</vendorCode>
@@ -1703,7 +1703,7 @@
   <offer id="18998">
     <vendorCode>DCLE34031N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20731">
     <vendorCode>DCLE34035B</vendorCode>
@@ -13143,7 +13143,7 @@
   <offer id="18050">
     <vendorCode>BEBLV290</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16093">
     <vendorCode>BEBLV300</vendorCode>
