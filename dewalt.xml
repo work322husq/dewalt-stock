@@ -3193,7 +3193,7 @@
   <offer id="14703">
     <vendorCode>DT9643</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13982">
     <vendorCode>DT9644</vendorCode>
@@ -3233,7 +3233,7 @@
   <offer id="14035">
     <vendorCode>DT9651</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14036">
     <vendorCode>DT9652</vendorCode>
@@ -3508,7 +3508,7 @@
   <offer id="12986">
     <vendorCode>D25134K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13010">
     <vendorCode>D25144K</vendorCode>
@@ -3658,7 +3658,7 @@
   <offer id="17897">
     <vendorCode>DCS565NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17898">
     <vendorCode>DCS565P2</vendorCode>
@@ -4753,7 +4753,7 @@
   <offer id="17240">
     <vendorCode>DT1948</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17241">
     <vendorCode>DT1949</vendorCode>
@@ -4998,7 +4998,7 @@
   <offer id="19135">
     <vendorCode>DT20592</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19437">
     <vendorCode>DT20595</vendorCode>
@@ -8513,7 +8513,7 @@
   <offer id="18013">
     <vendorCode>DNPT3190G12Z</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18019">
     <vendorCode>DNPT3190HDZ</vendorCode>
@@ -9698,7 +9698,7 @@
   <offer id="22410">
     <vendorCode>DWF50233-101-7</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20788">
     <vendorCode>DWF50233-101-8</vendorCode>
@@ -18538,7 +18538,7 @@
   <offer id="13189">
     <vendorCode>STA54057</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13361">
     <vendorCode>STA54062</vendorCode>
@@ -20303,7 +20303,7 @@
   <offer id="14745">
     <vendorCode>STHT1-60274</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14746">
     <vendorCode>STHT1-60335</vendorCode>
