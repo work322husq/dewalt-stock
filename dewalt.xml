@@ -28,7 +28,7 @@
   <offer id="21023">
     <vendorCode>DCB183_N314783</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14826">
     <vendorCode>DCB184</vendorCode>
@@ -77,6 +77,11 @@
   </offer>
   <offer id="19110">
     <vendorCode>DCB547G</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="16195">
+    <vendorCode>DCB548</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -1703,7 +1708,7 @@
   <offer id="18998">
     <vendorCode>DCLE34031N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20731">
     <vendorCode>DCLE34035B</vendorCode>
@@ -1793,7 +1798,7 @@
   <offer id="19703">
     <vendorCode>DWHT38128-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19714">
     <vendorCode>DWHT25227-0</vendorCode>
@@ -2068,7 +2073,7 @@
   <offer id="20908">
     <vendorCode>DT70901T</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21676">
     <vendorCode>DT70902T</vendorCode>
@@ -2108,7 +2113,7 @@
   <offer id="20484">
     <vendorCode>DT71563</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14198">
     <vendorCode>DT71570</vendorCode>
@@ -4613,7 +4618,7 @@
   <offer id="19920">
     <vendorCode>DT10401_10</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19921">
     <vendorCode>DT10402</vendorCode>
@@ -5788,7 +5793,7 @@
   <offer id="19169">
     <vendorCode>DT20617</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19170">
     <vendorCode>DT20618</vendorCode>
@@ -7488,7 +7493,7 @@
   <offer id="20406">
     <vendorCode>DCMBL777N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20407">
     <vendorCode>DCMBL777X1</vendorCode>
@@ -8288,7 +8293,7 @@
   <offer id="18028">
     <vendorCode>DNBA1638SZ</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15019">
     <vendorCode>DNBA1644GZ</vendorCode>
@@ -8908,7 +8913,7 @@
   <offer id="20147">
     <vendorCode>DXPW002E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21957">
     <vendorCode>DXPW002I</vendorCode>
@@ -9073,7 +9078,7 @@
   <offer id="21223">
     <vendorCode>DCPS330N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15585">
     <vendorCode>DCM565N</vendorCode>
@@ -11008,7 +11013,7 @@
   <offer id="11993">
     <vendorCode>DWS5031</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15099">
     <vendorCode>DWV9000</vendorCode>
@@ -11368,7 +11373,7 @@
   <offer id="11898">
     <vendorCode>DT20711</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="11900">
     <vendorCode>DT20713</vendorCode>
@@ -12398,7 +12403,7 @@
   <offer id="15335">
     <vendorCode>BDC1A</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15336">
     <vendorCode>BDC1A15</vendorCode>
@@ -22858,7 +22863,7 @@
   <offer id="18896">
     <vendorCode>SFMCD710D2K</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18897">
     <vendorCode>SFMCD715D2K</vendorCode>
