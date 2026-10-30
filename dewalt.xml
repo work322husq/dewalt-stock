@@ -1275,6 +1275,11 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="22704">
+    <vendorCode>DXCVXA01B</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
+  </offer>
   <offer id="21032">
     <vendorCode>DXV20PC</vendorCode>
     <price>1</price>
@@ -1304,6 +1309,11 @@
     <vendorCode>DXVCS002</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="22705">
+    <vendorCode>DXVCS003</vendorCode>
+    <price>1</price>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8884">
     <vendorCode>D26500</vendorCode>
@@ -3698,7 +3708,7 @@
   <offer id="16947">
     <vendorCode>DCS571NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19585">
     <vendorCode>DCS572N</vendorCode>
@@ -9383,7 +9393,7 @@
   <offer id="20542">
     <vendorCode>DCE590N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20826">
     <vendorCode>DWC147-004-3031</vendorCode>
