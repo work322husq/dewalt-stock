@@ -1038,7 +1038,7 @@
   <offer id="19645">
     <vendorCode>DWHT51006-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19649">
     <vendorCode>DWHT51008-0</vendorCode>
@@ -2233,7 +2233,7 @@
   <offer id="17260">
     <vendorCode>DT7399T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19923">
     <vendorCode>DT7800T</vendorCode>
@@ -9208,7 +9208,7 @@
   <offer id="21791">
     <vendorCode>DPG110-1D</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21790">
     <vendorCode>DPG110-2D</vendorCode>
@@ -9743,12 +9743,12 @@
   <offer id="22414">
     <vendorCode>DWF50355-179-09</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22415">
     <vendorCode>DWF50355-179-10</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22416">
     <vendorCode>DWF50355-179-11</vendorCode>
