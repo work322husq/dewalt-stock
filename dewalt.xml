@@ -5123,7 +5123,7 @@
   <offer id="18655">
     <vendorCode>DWA4525IA</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18652">
     <vendorCode>DWA8011RIA</vendorCode>
@@ -10093,7 +10093,7 @@
   <offer id="20845">
     <vendorCode>DWST60104-9</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19546">
     <vendorCode>DWST60105-1</vendorCode>
@@ -10183,7 +10183,7 @@
   <offer id="16860">
     <vendorCode>DWST82991-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17175">
     <vendorCode>DWST83293-1</vendorCode>
@@ -10313,7 +10313,7 @@
   <offer id="18982">
     <vendorCode>DWST83541-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21681">
     <vendorCode>DWST83542-1</vendorCode>
@@ -18233,7 +18233,7 @@
   <offer id="17309">
     <vendorCode>STA88573</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20081">
     <vendorCode>STA88582</vendorCode>
@@ -18783,7 +18783,7 @@
   <offer id="12946">
     <vendorCode>STA58508</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12947">
     <vendorCode>STA58511</vendorCode>
@@ -18878,7 +18878,7 @@
   <offer id="12925">
     <vendorCode>STA54402</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12926">
     <vendorCode>STA54407</vendorCode>
@@ -20628,7 +20628,7 @@
   <offer id="22684">
     <vendorCode>FMHT83554-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18538">
     <vendorCode>STHT0-83094</vendorCode>
