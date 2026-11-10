@@ -418,7 +418,7 @@
   <offer id="18849">
     <vendorCode>DCF923P2G</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22217">
     <vendorCode>DCF92MP2T</vendorCode>
@@ -623,7 +623,7 @@
   <offer id="21208">
     <vendorCode>DCD794NT</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21210">
     <vendorCode>DCD794P2T</vendorCode>
@@ -1828,7 +1828,7 @@
   <offer id="17362">
     <vendorCode>DT20425</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17375">
     <vendorCode>DT70518T</vendorCode>
@@ -1953,7 +1953,7 @@
   <offer id="16107">
     <vendorCode>DT70739T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17381">
     <vendorCode>DT70740T</vendorCode>
@@ -2538,7 +2538,7 @@
   <offer id="19150">
     <vendorCode>DT70838</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16154">
     <vendorCode>DT8907</vendorCode>
@@ -3793,7 +3793,7 @@
   <offer id="16455">
     <vendorCode>DCS335N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16456">
     <vendorCode>DCS335NT</vendorCode>
@@ -8278,7 +8278,7 @@
   <offer id="16026">
     <vendorCode>DCN8903057</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15017">
     <vendorCode>DNBA1632GZ</vendorCode>
@@ -10758,7 +10758,7 @@
   <offer id="19522">
     <vendorCode>DT20505</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19555">
     <vendorCode>DT20560</vendorCode>
@@ -18868,7 +18868,7 @@
   <offer id="12925">
     <vendorCode>STA54402</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12926">
     <vendorCode>STA54407</vendorCode>
@@ -23328,12 +23328,12 @@
   <offer id="19978">
     <vendorCode>SXFPW25PE</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19977">
     <vendorCode>SXFPW30PE</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18367">
     <vendorCode>SFMCB100</vendorCode>
