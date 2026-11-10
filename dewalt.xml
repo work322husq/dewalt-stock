@@ -2313,7 +2313,7 @@
   <offer id="19670">
     <vendorCode>DWHT0-16148</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19669">
     <vendorCode>DWHT16852-9</vendorCode>
@@ -3833,7 +3833,7 @@
   <offer id="15433">
     <vendorCode>DCS367P2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17016">
     <vendorCode>DCS369N</vendorCode>
@@ -6533,7 +6533,7 @@
   <offer id="11366">
     <vendorCode>DT5041</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11367">
     <vendorCode>DT5042</vendorCode>
@@ -8518,7 +8518,7 @@
   <offer id="18013">
     <vendorCode>DNPT3190G12Z</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18019">
     <vendorCode>DNPT3190HDZ</vendorCode>
@@ -18563,7 +18563,7 @@
   <offer id="13199">
     <vendorCode>STA54282</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14585">
     <vendorCode>4-84-489</vendorCode>
