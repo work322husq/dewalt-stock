@@ -22883,7 +22883,7 @@
   <offer id="19837">
     <vendorCode>SFMCD721D2K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20860">
     <vendorCode>SFMCD750B</vendorCode>
@@ -22908,7 +22908,7 @@
   <offer id="16631">
     <vendorCode>FME190</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19452">
     <vendorCode>SFMCB12D2</vendorCode>
@@ -23183,7 +23183,7 @@
   <offer id="19806">
     <vendorCode>SFMCE210B</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19807">
     <vendorCode>SFMCW223B</vendorCode>
