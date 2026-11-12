@@ -78,7 +78,7 @@
   <offer id="19110">
     <vendorCode>DCB547G</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18862">
     <vendorCode>DCB549</vendorCode>
@@ -553,7 +553,7 @@
   <offer id="22697">
     <vendorCode>DCD709M2DT2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18408">
     <vendorCode>DCD709M2T</vendorCode>
@@ -1503,7 +1503,7 @@
   <offer id="15980">
     <vendorCode>DCL079</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20062">
     <vendorCode>DCL182</vendorCode>
@@ -1678,7 +1678,7 @@
   <offer id="14030">
     <vendorCode>DCE089D1G</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17799">
     <vendorCode>DCE089D1G18</vendorCode>
@@ -3933,7 +3933,7 @@
   <offer id="10663">
     <vendorCode>D27113</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15972">
     <vendorCode>DCS365N</vendorCode>
@@ -3978,7 +3978,7 @@
   <offer id="16842">
     <vendorCode>DWS727</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="16985">
     <vendorCode>DWS773</vendorCode>
@@ -4338,7 +4338,7 @@
   <offer id="19121">
     <vendorCode>DCG409VSN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19122">
     <vendorCode>DCG409VSNT</vendorCode>
@@ -6478,7 +6478,7 @@
   <offer id="15215">
     <vendorCode>DT5026</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15100">
     <vendorCode>DT5027</vendorCode>
@@ -7118,7 +7118,7 @@
   <offer id="11479">
     <vendorCode>DT6680</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11481">
     <vendorCode>DT6682</vendorCode>
@@ -7133,7 +7133,7 @@
   <offer id="11483">
     <vendorCode>DT6684</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11484">
     <vendorCode>DT6685</vendorCode>
@@ -8848,7 +8848,7 @@
   <offer id="22226">
     <vendorCode>DCK5222MP3T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16597">
     <vendorCode>DCK623P3</vendorCode>
@@ -8893,17 +8893,17 @@
   <offer id="20632">
     <vendorCode>DXPW001DTS-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="22721">
     <vendorCode>DXPW001E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20146">
     <vendorCode>DXPW001M</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="21955">
     <vendorCode>DXPW001U</vendorCode>
@@ -8918,7 +8918,7 @@
   <offer id="20153">
     <vendorCode>DXPW002CEKART</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20147">
     <vendorCode>DXPW002E</vendorCode>
@@ -8928,7 +8928,7 @@
   <offer id="21957">
     <vendorCode>DXPW002I</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19972">
     <vendorCode>DXPW002M-E</vendorCode>
@@ -8938,7 +8938,7 @@
   <offer id="21956">
     <vendorCode>DXPW002U</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20148">
     <vendorCode>DXPW003E</vendorCode>
@@ -8948,7 +8948,7 @@
   <offer id="21958">
     <vendorCode>DXPW003H</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20150">
     <vendorCode>DXPW004E</vendorCode>
@@ -10598,7 +10598,7 @@
   <offer id="19565">
     <vendorCode>DCFA4032</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19564">
     <vendorCode>DCFA4141</vendorCode>
@@ -11278,7 +11278,7 @@
   <offer id="21216">
     <vendorCode>DCMPP569P1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17069">
     <vendorCode>DCMPS567N</vendorCode>
@@ -11588,7 +11588,7 @@
   <offer id="11750">
     <vendorCode>DT2348</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11751">
     <vendorCode>DT2350</vendorCode>
@@ -18660,6 +18660,11 @@
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
+  <offer id="14842">
+    <vendorCode>SHR263K</vendorCode>
+    <price>1</price>
+    <stock_quantity>99</stock_quantity>
+  </offer>
   <offer id="10616">
     <vendorCode>6-GR25</vendorCode>
     <price>1</price>
@@ -21448,7 +21453,7 @@
   <offer id="22719">
     <vendorCode>SXPW19H</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19980">
     <vendorCode>SXPW22DSS-E</vendorCode>
@@ -21463,7 +21468,7 @@
   <offer id="22720">
     <vendorCode>SXPW24HP</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="20912">
     <vendorCode>SXPW25CDSS-E</vendorCode>
@@ -23073,7 +23078,7 @@
   <offer id="21527">
     <vendorCode>SFMCMW2651M+SFMCSTB933M</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="19423">
     <vendorCode>SFMCMWS251M</vendorCode>
