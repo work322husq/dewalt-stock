@@ -3,7 +3,7 @@
   <offer id="16438">
     <vendorCode>DCB124</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17664">
     <vendorCode>DCB126</vendorCode>
@@ -483,7 +483,7 @@
   <offer id="20050">
     <vendorCode>DCD444N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16943">
     <vendorCode>DCD470N</vendorCode>
@@ -948,7 +948,7 @@
   <offer id="17809">
     <vendorCode>DCB118Y2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14407">
     <vendorCode>DCB132</vendorCode>
@@ -3553,7 +3553,7 @@
   <offer id="8843">
     <vendorCode>D28715</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16479">
     <vendorCode>D28730</vendorCode>
@@ -4393,7 +4393,7 @@
   <offer id="19593">
     <vendorCode>DCG460N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19594">
     <vendorCode>DCG460NK</vendorCode>
@@ -5108,7 +5108,7 @@
   <offer id="18661">
     <vendorCode>DW4549AIA</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18656">
     <vendorCode>DWA4522IA</vendorCode>
@@ -8843,7 +8843,7 @@
   <offer id="22226">
     <vendorCode>DCK5222MP3T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16597">
     <vendorCode>DCK623P3</vendorCode>
@@ -10703,7 +10703,7 @@
   <offer id="13302">
     <vendorCode>DE6260</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13274">
     <vendorCode>DE6262</vendorCode>
@@ -12108,7 +12108,7 @@
   <offer id="11721">
     <vendorCode>DT3304</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11722">
     <vendorCode>DT3304_10_1</vendorCode>
@@ -18652,11 +18652,6 @@
   </offer>
   <offer id="15680">
     <vendorCode>STMT1-74180</vendorCode>
-    <price>1</price>
-    <stock_quantity>99</stock_quantity>
-  </offer>
-  <offer id="14842">
-    <vendorCode>SHR263K</vendorCode>
     <price>1</price>
     <stock_quantity>99</stock_quantity>
   </offer>
