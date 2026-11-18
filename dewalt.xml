@@ -558,7 +558,7 @@
   <offer id="18408">
     <vendorCode>DCD709M2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17326">
     <vendorCode>DCD709N</vendorCode>
@@ -4113,7 +4113,7 @@
   <offer id="18354">
     <vendorCode>DCF850P2T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20679">
     <vendorCode>DCF85MM1T</vendorCode>
@@ -4373,7 +4373,7 @@
   <offer id="17671">
     <vendorCode>DCG418T2</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17672">
     <vendorCode>DCG418X2</vendorCode>
@@ -10138,7 +10138,7 @@
   <offer id="19543">
     <vendorCode>DWST60106-1</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19547">
     <vendorCode>DWST60107-1</vendorCode>
@@ -17558,7 +17558,7 @@
   <offer id="15826">
     <vendorCode>STHT77498-1</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15827">
     <vendorCode>STHT77499-1</vendorCode>
