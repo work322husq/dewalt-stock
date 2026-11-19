@@ -3038,7 +3038,7 @@
   <offer id="17321">
     <vendorCode>DT9591</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15565">
     <vendorCode>DT9593</vendorCode>
@@ -13063,7 +13063,7 @@
   <offer id="15467">
     <vendorCode>KA900E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17979">
     <vendorCode>KA902EK</vendorCode>
