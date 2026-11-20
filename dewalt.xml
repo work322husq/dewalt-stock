@@ -3603,7 +3603,7 @@
   <offer id="8820">
     <vendorCode>D23700</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16308">
     <vendorCode>DCS373N</vendorCode>
@@ -4698,7 +4698,7 @@
   <offer id="17236">
     <vendorCode>DT1934</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17237">
     <vendorCode>DT1935</vendorCode>
@@ -4858,7 +4858,7 @@
   <offer id="11653">
     <vendorCode>DT4084</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11654">
     <vendorCode>DT4087</vendorCode>
@@ -9413,7 +9413,7 @@
   <offer id="20542">
     <vendorCode>DCE590N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20826">
     <vendorCode>DWC147-004-3031</vendorCode>
@@ -10643,7 +10643,7 @@
   <offer id="16471">
     <vendorCode>DCV9401</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="16472">
     <vendorCode>DCV9402</vendorCode>
@@ -13063,7 +13063,7 @@
   <offer id="17979">
     <vendorCode>KA902EK</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15357">
     <vendorCode>BDCROS18</vendorCode>
@@ -13958,7 +13958,7 @@
   <offer id="10870">
     <vendorCode>MTHD5</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13666">
     <vendorCode>MTIM3</vendorCode>
@@ -17673,7 +17673,7 @@
   <offer id="8979">
     <vendorCode>1-43-525</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8980">
     <vendorCode>1-43-537</vendorCode>
@@ -19423,7 +19423,7 @@
   <offer id="9534">
     <vendorCode>1-56-001</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="15647">
     <vendorCode>STHT0-54126</vendorCode>
@@ -19528,7 +19528,7 @@
   <offer id="10950">
     <vendorCode>1-15-446</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="9684">
     <vendorCode>1-15-558</vendorCode>
