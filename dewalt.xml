@@ -413,7 +413,7 @@
   <offer id="18850">
     <vendorCode>DCF923N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18849">
     <vendorCode>DCF923P2G</vendorCode>
@@ -5363,7 +5363,7 @@
   <offer id="17846">
     <vendorCode>DT90317</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17847">
     <vendorCode>DT90318</vendorCode>
@@ -11563,7 +11563,7 @@
   <offer id="17246">
     <vendorCode>DT2333</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11748">
     <vendorCode>DT2345</vendorCode>
