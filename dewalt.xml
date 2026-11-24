@@ -8533,7 +8533,7 @@
   <offer id="15307">
     <vendorCode>DNPT31R90Z</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17789">
     <vendorCode>DNR3119GZ</vendorCode>
@@ -18038,7 +18038,7 @@
   <offer id="22710">
     <vendorCode>STHT47110-0</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="22711">
     <vendorCode>STHT47111-0</vendorCode>
@@ -20618,7 +20618,7 @@
   <offer id="14173">
     <vendorCode>FMHT0-83247</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20378">
     <vendorCode>FMHT83006-0</vendorCode>
