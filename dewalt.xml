@@ -2263,7 +2263,7 @@
   <offer id="15490">
     <vendorCode>DT7994T</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="14625">
     <vendorCode>DT7995T</vendorCode>
@@ -4288,7 +4288,7 @@
   <offer id="15419">
     <vendorCode>DCG406N</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="15420">
     <vendorCode>DCG406NT</vendorCode>
@@ -8553,7 +8553,7 @@
   <offer id="17793">
     <vendorCode>DNR3122HDZ</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="17791">
     <vendorCode>DNR3125GZ</vendorCode>
@@ -8598,7 +8598,7 @@
   <offer id="12976">
     <vendorCode>DT3796</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="13879">
     <vendorCode>DT3797</vendorCode>
@@ -11363,7 +11363,7 @@
   <offer id="11891">
     <vendorCode>DT20704</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="11892">
     <vendorCode>DT20705</vendorCode>
@@ -14063,12 +14063,12 @@
   <offer id="12410">
     <vendorCode>F33PTSM-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12411">
     <vendorCode>FN1664-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18308">
     <vendorCode>N400C-1-E</vendorCode>
@@ -14088,12 +14088,12 @@
   <offer id="12415">
     <vendorCode>N66C-2-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12416">
     <vendorCode>N75C-2-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14065">
     <vendorCode>N8090CB-1ML-E</vendorCode>
@@ -14103,12 +14103,12 @@
   <offer id="14066">
     <vendorCode>N89C-2K-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14068">
     <vendorCode>PN50-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14069">
     <vendorCode>RN46DW-1EPAL</vendorCode>
@@ -14118,7 +14118,7 @@
   <offer id="16628">
     <vendorCode>RN46K-2-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12419">
     <vendorCode>SB-HC50FN</vendorCode>
@@ -14133,7 +14133,7 @@
   <offer id="12427">
     <vendorCode>TU-216-2330K-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12428">
     <vendorCode>21671B-E</vendorCode>
@@ -14148,17 +14148,17 @@
   <offer id="14071">
     <vendorCode>21680B-ALM-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12429">
     <vendorCode>21680B-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12430">
     <vendorCode>21680B-LN-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12431">
     <vendorCode>21684B-E</vendorCode>
@@ -14183,12 +14183,12 @@
   <offer id="17327">
     <vendorCode>SL1838BC-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="18865">
     <vendorCode>SX1838-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14059">
     <vendorCode>MIIIFS</vendorCode>
@@ -14198,7 +14198,7 @@
   <offer id="12457">
     <vendorCode>MS-3519-E</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="12458">
     <vendorCode>MS-3522-E</vendorCode>
@@ -14213,7 +14213,7 @@
   <offer id="12460">
     <vendorCode>P6C-8</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="14060">
     <vendorCode>P7</vendorCode>
@@ -14938,32 +14938,32 @@
   <offer id="18309">
     <vendorCode>KB380100</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18313">
     <vendorCode>KB380120</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18314">
     <vendorCode>KB380130</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18310">
     <vendorCode>KB380SP100</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18312">
     <vendorCode>KB380SP120</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="18315">
     <vendorCode>KB380SP130</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12657">
     <vendorCode>MB8-20-20M</vendorCode>
@@ -15168,7 +15168,7 @@
   <offer id="15967">
     <vendorCode>RH31R90</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="12710">
     <vendorCode>S28060</vendorCode>
@@ -17383,7 +17383,7 @@
   <offer id="21050">
     <vendorCode>SXLS50107E</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="21045">
     <vendorCode>SXLS50109E</vendorCode>
@@ -17638,12 +17638,12 @@
   <offer id="8965">
     <vendorCode>1-42-920</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8966">
     <vendorCode>1-42-921</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8967">
     <vendorCode>1-42-922</vendorCode>
@@ -17653,7 +17653,7 @@
   <offer id="8968">
     <vendorCode>1-42-923</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="8978">
     <vendorCode>1-43-524</vendorCode>
