@@ -4253,7 +4253,7 @@
   <offer id="15748">
     <vendorCode>DCG405FN</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19124">
     <vendorCode>DCG405H2T</vendorCode>
@@ -10168,7 +10168,7 @@
   <offer id="20845">
     <vendorCode>DWST60104-9</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="19546">
     <vendorCode>DWST60105-1</vendorCode>
@@ -11948,7 +11948,7 @@
   <offer id="20048">
     <vendorCode>DT20693</vendorCode>
     <price>1</price>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="20049">
     <vendorCode>DT20694</vendorCode>
