@@ -888,7 +888,7 @@
   <offer id="18864">
     <vendorCode>DCB094K</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>3</stock_quantity>
   </offer>
   <offer id="16944">
     <vendorCode>DCB104</vendorCode>
@@ -913,7 +913,7 @@
   <offer id="21085">
     <vendorCode>DCB1104P2</vendorCode>
     <price>1</price>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>30</stock_quantity>
   </offer>
   <offer id="19466">
     <vendorCode>DCB1104P3</vendorCode>
